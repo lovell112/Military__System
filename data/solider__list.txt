@@ -1,0 +1,401 @@
+maSo,hoTen,capBac,donVi,ngaySinh,ngayNhapNgu,chucVu/nhiemVu,loai
+B-001,Tran Son Duc,Binh nhi,Tieu doan 1,16/08/1986,10/04/2011,Truyen tin,BinhSi
+B-002,Pham Tam Quang,Binh nhat,Tieu doan 2,23/03/2003,14/11/2012,Hau can,BinhSi
+B-003,Do Quang Quang,Binh nhi,Tieu doan 2,25/07/2000,06/11/2013,Van chuyen,BinhSi
+B-004,Vo Thanh Anh,Binh nhi,Tieu doan 1,27/09/2002,27/10/2022,Hau can,BinhSi
+B-005,Vo Thi Tu,Binh nhi,Trung doan 3,27/01/1996,02/07/2010,Hau can,BinhSi
+B-006,Tran Kien Anh,Binh nhi,Trung doan 3,09/07/1987,08/11/2012,Van chuyen,BinhSi
+B-007,Nguyen Anh Anh,Binh nhi,Trung doan 3,23/07/1991,12/12/2014,Van chuyen,BinhSi
+B-008,Tran Kien Tu,Binh nhat,Tieu doan 2,15/10/1999,23/11/2013,Van chuyen,BinhSi
+B-009,Tran Tam Tu,Binh nhi,Tieu doan 1,28/09/1998,19/12/2013,Truyen tin,BinhSi
+B-010,Pham Anh Duc,Binh nhat,Tieu doan 1,12/10/1999,12/05/2016,Truyen tin,BinhSi
+B-011,Pham Thi Duc,Binh nhat,Trung doan 3,13/09/1994,03/07/2018,Canh gac,BinhSi
+B-012,Bui Son Duc,Binh nhat,Tieu doan 2,22/01/2003,24/01/2016,Van chuyen,BinhSi
+B-013,Hoang Minh Hieu,Binh nhat,Trung doan 3,27/08/1999,10/05/2021,Hau can,BinhSi
+B-014,Nguyen Phu Son,Binh nhat,Tieu doan 1,12/07/1997,21/04/2013,Hau can,BinhSi
+B-015,Bui Anh Mai,Binh nhi,Tieu doan 2,22/02/2003,12/12/2016,Hau can,BinhSi
+B-016,Do Minh Hieu,Binh nhat,Tieu doan 1,19/10/2000,22/01/2012,Van chuyen,BinhSi
+B-017,Le Tam Mai,Binh nhi,Trung doan 3,24/12/1996,26/01/2015,Canh gac,BinhSi
+B-018,Tran Thanh Mai,Binh nhat,Tieu doan 1,19/06/1990,14/03/2023,Truyen tin,BinhSi
+B-019,Pham Tam Duc,Binh nhat,Tieu doan 2,14/03/2002,28/10/2017,Van chuyen,BinhSi
+B-020,Dang Minh Duc,Binh nhat,Tieu doan 1,17/08/1987,20/10/2019,Canh gac,BinhSi
+B-021,Do Kien Duc,Binh nhi,Tieu doan 2,24/01/1988,20/03/2015,Van chuyen,BinhSi
+B-022,Le Duy Lan,Binh nhat,Tieu doan 2,17/01/2003,26/01/2019,Canh gac,BinhSi
+B-023,Tran Phu Duc,Binh nhi,Trung doan 3,07/09/2003,22/03/2017,Canh gac,BinhSi
+B-024,Dang Tam Hieu,Binh nhat,Trung doan 3,08/10/1992,04/07/2015,Canh gac,BinhSi
+B-025,Hoang Tam Mai,Binh nhi,Tieu doan 2,23/05/1987,17/02/2013,Canh gac,BinhSi
+B-026,Vo Duy Anh,Binh nhi,Trung doan 3,13/03/1997,04/01/2012,Hau can,BinhSi
+B-027,Bui Tam Mai,Binh nhat,Tieu doan 2,08/09/1993,07/04/2015,Canh gac,BinhSi
+B-028,Tran Anh Quang,Binh nhat,Trung doan 3,01/02/2002,01/04/2010,Truyen tin,BinhSi
+B-029,Vo Quang Quang,Binh nhi,Trung doan 3,03/07/1995,11/10/2019,Hau can,BinhSi
+B-030,Nguyen Thi Quang,Binh nhat,Tieu doan 2,01/07/1986,03/02/2012,Hau can,BinhSi
+B-031,Do Kien Hieu,Binh nhi,Tieu doan 2,01/04/1991,24/02/2022,Truyen tin,BinhSi
+B-032,Nguyen Duy Duc,Binh nhat,Tieu doan 1,05/12/1992,28/12/2018,Van chuyen,BinhSi
+B-033,Do Kien Hieu,Binh nhat,Tieu doan 2,21/12/2002,17/09/2019,Hau can,BinhSi
+B-034,Le Son Anh,Binh nhi,Trung doan 3,17/05/2000,21/11/2010,Truyen tin,BinhSi
+B-035,Dang Thi Lan,Binh nhi,Tieu doan 1,08/12/1988,13/12/2011,Van chuyen,BinhSi
+B-036,Do Thanh Mai,Binh nhi,Tieu doan 2,21/11/1994,25/09/2012,Van chuyen,BinhSi
+B-037,Do Anh Hieu,Binh nhi,Tieu doan 2,18/04/1994,23/06/2013,Van chuyen,BinhSi
+B-038,Bui Kien Hieu,Binh nhi,Tieu doan 2,23/03/1989,15/11/2021,Hau can,BinhSi
+B-039,Do Kien Mai,Binh nhat,Trung doan 3,25/11/2002,05/02/2019,Van chuyen,BinhSi
+B-040,Tran Minh Son,Binh nhat,Tieu doan 2,22/10/1996,21/11/2020,Canh gac,BinhSi
+B-041,Do Anh Anh,Binh nhi,Tieu doan 2,02/01/2002,03/08/2014,Truyen tin,BinhSi
+B-042,Le Son Lan,Binh nhi,Tieu doan 1,27/04/2001,19/09/2018,Truyen tin,BinhSi
+B-043,Ngo Phu Mai,Binh nhi,Tieu doan 1,05/06/1994,07/03/2013,Truyen tin,BinhSi
+B-044,Dang Phu Mai,Binh nhi,Trung doan 3,02/04/1995,23/07/2016,Van chuyen,BinhSi
+B-045,Le Anh Anh,Binh nhi,Tieu doan 2,20/07/1998,28/11/2012,Hau can,BinhSi
+B-046,Ngo Duy Mai,Binh nhat,Tieu doan 1,19/12/1989,12/08/2017,Truyen tin,BinhSi
+B-047,Bui Kien Lan,Binh nhi,Trung doan 3,01/03/1991,25/06/2013,Canh gac,BinhSi
+B-048,Dang Tam Son,Binh nhat,Tieu doan 2,03/07/2001,01/07/2017,Canh gac,BinhSi
+B-049,Bui Kien Tu,Binh nhat,Trung doan 3,19/04/1994,17/01/2011,Canh gac,BinhSi
+B-050,Do Son Hieu,Binh nhat,Tieu doan 2,15/08/1991,01/02/2014,Van chuyen,BinhSi
+B-051,Vo Duy Son,Binh nhi,Tieu doan 2,04/04/1986,15/10/2022,Canh gac,BinhSi
+B-052,Tran Minh Quang,Binh nhi,Tieu doan 1,22/03/2000,27/08/2019,Truyen tin,BinhSi
+B-053,Le Son Quang,Binh nhi,Trung doan 3,26/09/1992,18/05/2018,Hau can,BinhSi
+B-054,Pham Quang Tu,Binh nhi,Tieu doan 2,22/05/1990,25/04/2015,Canh gac,BinhSi
+B-055,Hoang Son Mai,Binh nhat,Trung doan 3,27/02/2002,20/01/2015,Hau can,BinhSi
+B-056,Tran Thanh Lan,Binh nhat,Trung doan 3,17/03/1990,11/05/2020,Canh gac,BinhSi
+B-057,Dang Minh Son,Binh nhat,Trung doan 3,03/01/2000,12/06/2014,Van chuyen,BinhSi
+B-058,Pham Son Lan,Binh nhat,Tieu doan 1,26/10/1990,19/12/2013,Truyen tin,BinhSi
+B-059,Pham Duy Hieu,Binh nhat,Tieu doan 1,15/07/1992,14/03/2014,Hau can,BinhSi
+B-060,Le Kien Duc,Binh nhat,Tieu doan 2,15/09/1994,04/02/2021,Canh gac,BinhSi
+B-061,Ngo Tam Duc,Binh nhat,Tieu doan 2,06/12/2000,05/11/2017,Truyen tin,BinhSi
+B-062,Do Quang Hieu,Binh nhat,Tieu doan 1,22/12/1985,03/04/2014,Canh gac,BinhSi
+B-063,Do Kien Hieu,Binh nhat,Tieu doan 2,19/01/1986,06/06/2017,Truyen tin,BinhSi
+B-064,Tran Phu Hieu,Binh nhat,Tieu doan 2,19/10/1992,27/01/2022,Hau can,BinhSi
+B-065,Nguyen Quang Son,Binh nhi,Tieu doan 2,27/12/1995,09/03/2020,Hau can,BinhSi
+B-066,Nguyen Son Son,Binh nhat,Tieu doan 1,03/12/2000,06/05/2021,Canh gac,BinhSi
+B-067,Do Thi Hieu,Binh nhat,Tieu doan 2,16/09/1996,25/02/2015,Hau can,BinhSi
+B-068,Pham Phu Duc,Binh nhat,Trung doan 3,09/07/2003,08/05/2023,Van chuyen,BinhSi
+B-069,Dang Kien Son,Binh nhi,Tieu doan 2,19/01/1990,01/02/2020,Van chuyen,BinhSi
+B-070,Hoang Minh Hieu,Binh nhi,Trung doan 3,22/12/1999,20/12/2018,Truyen tin,BinhSi
+B-071,Bui Duy Hieu,Binh nhat,Trung doan 3,27/05/1993,27/10/2013,Canh gac,BinhSi
+B-072,Vo Thi Quang,Binh nhat,Tieu doan 2,14/12/1988,21/11/2020,Van chuyen,BinhSi
+B-073,Bui Son Hieu,Binh nhat,Tieu doan 1,01/09/1995,11/06/2019,Truyen tin,BinhSi
+B-074,Dang Thi Hieu,Binh nhi,Tieu doan 1,02/12/1993,16/10/2014,Van chuyen,BinhSi
+B-075,Pham Phu Hieu,Binh nhat,Trung doan 3,07/08/1991,27/05/2016,Hau can,BinhSi
+B-076,Bui Duy Hieu,Binh nhat,Tieu doan 1,10/03/2003,10/03/2019,Hau can,BinhSi
+B-077,Vo Thi Hieu,Binh nhat,Trung doan 3,18/08/1996,06/02/2022,Truyen tin,BinhSi
+B-078,Ngo Tam Son,Binh nhat,Tieu doan 1,19/01/1996,21/08/2016,Canh gac,BinhSi
+B-079,Vo Phu Tu,Binh nhat,Trung doan 3,17/04/1997,11/05/2020,Hau can,BinhSi
+B-080,Vo Phu Hieu,Binh nhi,Trung doan 3,25/09/1985,09/10/2011,Canh gac,BinhSi
+B-081,Ngo Phu Quang,Binh nhat,Trung doan 3,15/09/1986,13/10/2013,Van chuyen,BinhSi
+B-082,Bui Duy Hieu,Binh nhi,Tieu doan 1,08/04/1987,06/10/2017,Canh gac,BinhSi
+B-083,Nguyen Tam Lan,Binh nhat,Tieu doan 2,26/10/1986,27/06/2012,Hau can,BinhSi
+B-084,Tran Kien Son,Binh nhat,Tieu doan 1,20/07/1988,10/03/2012,Hau can,BinhSi
+B-085,Pham Duy Tu,Binh nhat,Tieu doan 1,05/10/1998,08/03/2015,Van chuyen,BinhSi
+B-086,Ngo Thanh Duc,Binh nhi,Trung doan 3,27/03/1989,18/08/2012,Canh gac,BinhSi
+B-087,Pham Tam Son,Binh nhat,Trung doan 3,05/08/1990,14/07/2012,Van chuyen,BinhSi
+B-088,Do Son Hieu,Binh nhat,Tieu doan 2,28/01/1999,15/11/2016,Truyen tin,BinhSi
+B-089,Do Quang Mai,Binh nhi,Trung doan 3,09/10/1995,25/02/2023,Van chuyen,BinhSi
+B-090,Le Thi Tu,Binh nhi,Trung doan 3,20/02/1989,16/07/2021,Canh gac,BinhSi
+B-091,Ngo Quang Anh,Binh nhi,Tieu doan 2,19/05/1990,19/03/2022,Canh gac,BinhSi
+B-092,Do Tam Lan,Binh nhi,Tieu doan 2,23/09/1992,12/04/2012,Hau can,BinhSi
+B-093,Hoang Thi Quang,Binh nhat,Trung doan 3,03/05/1998,11/09/2019,Truyen tin,BinhSi
+B-094,Hoang Kien Hieu,Binh nhi,Tieu doan 2,01/02/1993,08/07/2021,Van chuyen,BinhSi
+B-095,Nguyen Quang Hieu,Binh nhi,Tieu doan 1,01/08/1991,05/08/2010,Van chuyen,BinhSi
+B-096,Le Anh Mai,Binh nhat,Tieu doan 2,03/08/1996,11/03/2020,Truyen tin,BinhSi
+B-097,Bui Duy Duc,Binh nhat,Trung doan 3,21/10/1995,18/03/2018,Hau can,BinhSi
+B-098,Bui Thi Hieu,Binh nhat,Tieu doan 2,26/08/1988,07/11/2010,Truyen tin,BinhSi
+B-099,Pham Quang Hieu,Binh nhat,Tieu doan 1,02/08/1995,22/06/2021,Truyen tin,BinhSi
+B-100,Bui Tam Mai,Binh nhat,Tieu doan 1,09/07/1994,05/07/2012,Van chuyen,BinhSi
+B-101,Ngo Thanh Duc,Binh nhat,Tieu doan 1,04/03/1987,16/07/2015,Hau can,BinhSi
+B-102,Bui Tam Tu,Binh nhi,Tieu doan 1,02/11/1992,25/10/2017,Canh gac,BinhSi
+B-103,Tran Thi Hieu,Binh nhat,Trung doan 3,27/11/1996,06/07/2017,Van chuyen,BinhSi
+B-104,Bui Phu Mai,Binh nhi,Tieu doan 1,23/10/1996,01/08/2021,Truyen tin,BinhSi
+B-105,Nguyen Duy Lan,Binh nhat,Tieu doan 1,09/03/1989,20/01/2011,Hau can,BinhSi
+B-106,Hoang Anh Anh,Binh nhat,Tieu doan 1,19/12/1989,13/04/2022,Hau can,BinhSi
+B-107,Nguyen Thi Hieu,Binh nhi,Tieu doan 2,21/06/1986,08/03/2015,Van chuyen,BinhSi
+B-108,Do Son Hieu,Binh nhi,Tieu doan 1,12/08/2003,11/04/2017,Truyen tin,BinhSi
+B-109,Le Duy Quang,Binh nhi,Tieu doan 1,05/06/1993,13/07/2011,Hau can,BinhSi
+B-110,Tran Duy Hieu,Binh nhat,Tieu doan 2,04/12/1996,02/06/2021,Canh gac,BinhSi
+B-111,Vo Thanh Tu,Binh nhat,Tieu doan 2,10/03/1997,10/05/2022,Van chuyen,BinhSi
+B-112,Pham Duy Hieu,Binh nhi,Tieu doan 2,11/07/1992,05/02/2018,Canh gac,BinhSi
+B-113,Ngo Thi Lan,Binh nhat,Tieu doan 1,21/03/1997,11/04/2015,Truyen tin,BinhSi
+B-114,Le Anh Quang,Binh nhi,Tieu doan 2,14/05/1992,28/04/2010,Hau can,BinhSi
+B-115,Pham Phu Mai,Binh nhi,Tieu doan 2,22/09/1987,25/04/2010,Hau can,BinhSi
+B-116,Pham Son Hieu,Binh nhi,Trung doan 3,15/04/2002,23/10/2015,Van chuyen,BinhSi
+B-117,Nguyen Phu Anh,Binh nhat,Trung doan 3,21/08/1998,16/07/2020,Truyen tin,BinhSi
+B-118,Pham Quang Duc,Binh nhat,Tieu doan 2,13/10/1994,28/04/2016,Van chuyen,BinhSi
+B-119,Do Quang Anh,Binh nhat,Trung doan 3,19/07/1999,26/11/2014,Hau can,BinhSi
+B-120,Vo Phu Quang,Binh nhi,Tieu doan 2,24/12/1998,11/11/2018,Hau can,BinhSi
+B-121,Vo Thanh Son,Binh nhat,Tieu doan 1,03/04/1990,23/07/2018,Van chuyen,BinhSi
+B-122,Vo Phu Tu,Binh nhat,Trung doan 3,15/03/1990,06/11/2012,Canh gac,BinhSi
+B-123,Tran Phu Hieu,Binh nhi,Tieu doan 2,24/12/1994,13/04/2011,Truyen tin,BinhSi
+B-124,Dang Son Duc,Binh nhat,Trung doan 3,07/02/1988,05/07/2021,Hau can,BinhSi
+B-125,Tran Quang Mai,Binh nhi,Tieu doan 1,20/03/1987,07/12/2023,Van chuyen,BinhSi
+B-126,Tran Thi Hieu,Binh nhi,Tieu doan 2,01/10/1996,02/03/2023,Canh gac,BinhSi
+B-127,Hoang Kien Hieu,Binh nhat,Tieu doan 2,21/07/1991,20/02/2022,Canh gac,BinhSi
+B-128,Pham Quang Duc,Binh nhat,Tieu doan 2,24/03/1985,08/01/2020,Canh gac,BinhSi
+B-129,Tran Quang Anh,Binh nhat,Tieu doan 2,09/04/2002,20/11/2020,Canh gac,BinhSi
+B-130,Le Tam Lan,Binh nhat,Trung doan 3,02/06/2001,09/11/2013,Van chuyen,BinhSi
+B-131,Dang Kien Mai,Binh nhi,Tieu doan 1,12/03/1986,08/06/2016,Hau can,BinhSi
+B-132,Nguyen Duy Lan,Binh nhi,Tieu doan 1,19/04/1988,10/09/2019,Canh gac,BinhSi
+B-133,Vo Tam Son,Binh nhi,Tieu doan 1,18/05/1991,28/01/2021,Truyen tin,BinhSi
+B-134,Nguyen Thanh Mai,Binh nhat,Tieu doan 1,18/02/2002,03/10/2019,Canh gac,BinhSi
+B-135,Ngo Thanh Lan,Binh nhat,Tieu doan 2,20/03/1989,06/01/2015,Truyen tin,BinhSi
+B-136,Do Quang Duc,Binh nhat,Tieu doan 2,13/09/1990,06/10/2017,Truyen tin,BinhSi
+B-137,Tran Quang Lan,Binh nhi,Tieu doan 1,14/10/2001,18/04/2020,Van chuyen,BinhSi
+B-138,Tran Son Duc,Binh nhat,Trung doan 3,20/06/1985,24/10/2020,Van chuyen,BinhSi
+B-139,Le Quang Mai,Binh nhat,Trung doan 3,09/06/1989,14/07/2020,Van chuyen,BinhSi
+B-140,Dang Quang Mai,Binh nhi,Tieu doan 1,11/01/1996,04/01/2012,Canh gac,BinhSi
+B-141,Nguyen Thi Duc,Binh nhi,Trung doan 3,08/01/1999,25/08/2023,Van chuyen,BinhSi
+B-142,Dang Thi Hieu,Binh nhat,Tieu doan 2,26/11/1995,05/04/2018,Truyen tin,BinhSi
+B-143,Do Minh Quang,Binh nhi,Tieu doan 1,24/03/1996,03/07/2018,Hau can,BinhSi
+B-144,Ngo Anh Mai,Binh nhat,Tieu doan 2,23/11/1993,27/04/2016,Van chuyen,BinhSi
+B-145,Tran Minh Mai,Binh nhat,Trung doan 3,27/10/1989,05/06/2014,Truyen tin,BinhSi
+B-146,Hoang Thanh Mai,Binh nhi,Trung doan 3,12/07/1990,14/02/2010,Hau can,BinhSi
+B-147,Do Thi Duc,Binh nhat,Trung doan 3,15/05/2000,19/11/2012,Canh gac,BinhSi
+B-148,Hoang Tam Anh,Binh nhat,Trung doan 3,12/09/1996,25/03/2018,Hau can,BinhSi
+B-149,Pham Kien Lan,Binh nhi,Tieu doan 1,06/03/1999,16/03/2016,Van chuyen,BinhSi
+B-150,Do Thanh Mai,Binh nhat,Tieu doan 1,09/06/1989,07/06/2017,Canh gac,BinhSi
+B-151,Ngo Phu Lan,Binh nhat,Tieu doan 1,10/11/2001,06/03/2013,Truyen tin,BinhSi
+B-152,Hoang Kien Lan,Binh nhi,Trung doan 3,16/03/1997,17/03/2010,Truyen tin,BinhSi
+B-153,Hoang Tam Quang,Binh nhi,Tieu doan 2,15/08/1991,21/01/2011,Hau can,BinhSi
+B-154,Hoang Phu Mai,Binh nhi,Tieu doan 2,15/09/1989,09/01/2018,Truyen tin,BinhSi
+B-155,Hoang Thi Anh,Binh nhat,Trung doan 3,10/12/1996,23/06/2013,Canh gac,BinhSi
+B-156,Vo Minh Tu,Binh nhi,Tieu doan 1,08/08/1986,27/03/2012,Truyen tin,BinhSi
+B-157,Pham Thanh Hieu,Binh nhat,Tieu doan 2,22/07/1991,28/11/2023,Canh gac,BinhSi
+B-158,Pham Tam Tu,Binh nhi,Tieu doan 2,09/02/1996,13/08/2010,Canh gac,BinhSi
+B-159,Ngo Duy Hieu,Binh nhi,Tieu doan 1,17/03/1999,05/02/2017,Hau can,BinhSi
+B-160,Dang Minh Hieu,Binh nhi,Tieu doan 2,10/07/1994,14/01/2015,Canh gac,BinhSi
+B-161,Bui Thi Mai,Binh nhi,Tieu doan 1,26/11/1988,11/05/2010,Hau can,BinhSi
+B-162,Bui Son Tu,Binh nhat,Trung doan 3,12/12/1998,04/08/2015,Canh gac,BinhSi
+B-163,Pham Quang Lan,Binh nhi,Trung doan 3,27/08/1997,07/03/2012,Hau can,BinhSi
+B-164,Pham Phu Hieu,Binh nhi,Tieu doan 1,01/11/1987,04/09/2013,Van chuyen,BinhSi
+B-165,Dang Duy Tu,Binh nhat,Tieu doan 2,10/09/2000,13/08/2020,Canh gac,BinhSi
+B-166,Le Minh Hieu,Binh nhi,Tieu doan 1,04/02/1987,14/10/2013,Truyen tin,BinhSi
+B-167,Nguyen Duy Lan,Binh nhi,Tieu doan 1,22/04/1997,27/08/2015,Van chuyen,BinhSi
+B-168,Vo Quang Duc,Binh nhi,Tieu doan 1,17/10/1986,25/01/2016,Van chuyen,BinhSi
+B-169,Dang Quang Hieu,Binh nhi,Tieu doan 1,01/10/1993,17/05/2020,Truyen tin,BinhSi
+B-170,Hoang Quang Hieu,Binh nhi,Tieu doan 1,23/08/2001,11/06/2016,Truyen tin,BinhSi
+B-171,Pham Son Hieu,Binh nhi,Tieu doan 1,01/03/1985,01/07/2013,Hau can,BinhSi
+B-172,Ngo Thi Mai,Binh nhat,Trung doan 3,11/12/1992,07/12/2010,Hau can,BinhSi
+B-173,Hoang Thanh Mai,Binh nhi,Tieu doan 1,01/09/1995,23/02/2012,Van chuyen,BinhSi
+B-174,Le Son Mai,Binh nhat,Tieu doan 2,22/12/1990,04/07/2015,Canh gac,BinhSi
+B-175,Dang Minh Mai,Binh nhi,Trung doan 3,07/04/1991,16/05/2014,Truyen tin,BinhSi
+B-176,Le Quang Mai,Binh nhat,Tieu doan 1,15/08/1995,05/10/2014,Canh gac,BinhSi
+B-177,Nguyen Quang Duc,Binh nhi,Tieu doan 2,26/02/1991,08/02/2018,Van chuyen,BinhSi
+B-178,Tran Son Anh,Binh nhi,Trung doan 3,12/05/1995,14/01/2021,Hau can,BinhSi
+B-179,Ngo Thanh Son,Binh nhi,Trung doan 3,28/02/1986,11/03/2015,Hau can,BinhSi
+B-180,Pham Duy Tu,Binh nhi,Tieu doan 2,01/08/1994,23/05/2016,Canh gac,BinhSi
+B-181,Bui Tam Hieu,Binh nhi,Trung doan 3,28/03/1998,06/01/2014,Hau can,BinhSi
+B-182,Nguyen Thanh Tu,Binh nhi,Tieu doan 2,09/07/1994,06/01/2019,Hau can,BinhSi
+B-183,Le Anh Lan,Binh nhi,Trung doan 3,22/12/1987,04/12/2023,Canh gac,BinhSi
+B-184,Nguyen Thi Hieu,Binh nhat,Tieu doan 1,10/12/1986,04/01/2010,Truyen tin,BinhSi
+B-185,Ngo Minh Hieu,Binh nhat,Tieu doan 2,28/12/1989,13/04/2016,Truyen tin,BinhSi
+B-186,Tran Anh Duc,Binh nhat,Tieu doan 2,12/04/1987,01/07/2015,Hau can,BinhSi
+B-187,Bui Anh Quang,Binh nhat,Tieu doan 2,09/02/2000,15/05/2023,Hau can,BinhSi
+B-188,Tran Minh Mai,Binh nhi,Tieu doan 1,11/03/1986,10/12/2015,Hau can,BinhSi
+B-189,Hoang Minh Lan,Binh nhi,Tieu doan 1,17/03/2003,10/12/2017,Van chuyen,BinhSi
+B-190,Le Minh Hieu,Binh nhi,Trung doan 3,27/03/2003,25/02/2017,Truyen tin,BinhSi
+B-191,Nguyen Kien Lan,Binh nhat,Tieu doan 2,03/01/1992,07/07/2023,Hau can,BinhSi
+B-192,Bui Kien Mai,Binh nhat,Tieu doan 2,21/12/1992,09/10/2020,Truyen tin,BinhSi
+B-193,Hoang Duy Anh,Binh nhi,Tieu doan 2,08/12/2003,22/07/2017,Van chuyen,BinhSi
+B-194,Nguyen Thanh Quang,Binh nhi,Tieu doan 2,18/07/1988,04/09/2014,Canh gac,BinhSi
+B-195,Pham Quang Duc,Binh nhat,Tieu doan 1,15/01/1990,03/05/2018,Canh gac,BinhSi
+B-196,Do Duy Duc,Binh nhat,Trung doan 3,25/06/1998,03/09/2010,Van chuyen,BinhSi
+B-197,Ngo Duy Mai,Binh nhi,Tieu doan 2,22/09/1989,11/12/2020,Canh gac,BinhSi
+B-198,Vo Duy Hieu,Binh nhat,Trung doan 3,23/12/1998,15/03/2023,Hau can,BinhSi
+B-199,Ngo Thanh Mai,Binh nhi,Trung doan 3,17/09/1986,13/12/2019,Hau can,BinhSi
+B-200,Pham Thi Quang,Binh nhi,Trung doan 3,09/03/1997,28/05/2018,Truyen tin,BinhSi
+B-201,Tran Anh Anh,Binh nhat,Tieu doan 1,16/02/1994,13/03/2013,Van chuyen,BinhSi
+B-202,Bui Anh Hieu,Binh nhi,Trung doan 3,06/12/1990,07/03/2010,Van chuyen,BinhSi
+B-203,Bui Kien Duc,Binh nhi,Tieu doan 1,22/09/1986,05/05/2010,Truyen tin,BinhSi
+B-204,Pham Kien Anh,Binh nhi,Tieu doan 1,04/07/1991,06/12/2021,Canh gac,BinhSi
+B-205,Pham Quang Quang,Binh nhi,Trung doan 3,23/06/2003,17/09/2010,Canh gac,BinhSi
+B-206,Tran Thanh Mai,Binh nhi,Trung doan 3,14/02/2001,21/12/2012,Hau can,BinhSi
+B-207,Nguyen Phu Anh,Binh nhat,Tieu doan 1,03/02/2001,22/12/2017,Hau can,BinhSi
+B-208,Vo Minh Duc,Binh nhi,Tieu doan 2,01/05/2000,13/09/2012,Canh gac,BinhSi
+B-209,Hoang Thanh Quang,Binh nhat,Trung doan 3,19/11/1996,17/03/2023,Canh gac,BinhSi
+B-210,Bui Minh Mai,Binh nhat,Trung doan 3,21/09/1996,11/09/2020,Truyen tin,BinhSi
+B-211,Bui Duy Hieu,Binh nhi,Trung doan 3,03/04/1994,07/11/2011,Van chuyen,BinhSi
+B-212,Dang Anh Tu,Binh nhi,Trung doan 3,15/08/2000,27/08/2020,Van chuyen,BinhSi
+B-213,Tran Minh Duc,Binh nhat,Tieu doan 1,03/12/1988,08/03/2020,Van chuyen,BinhSi
+B-214,Vo Thi Anh,Binh nhi,Trung doan 3,23/09/1985,11/09/2012,Canh gac,BinhSi
+B-215,Hoang Minh Hieu,Binh nhi,Tieu doan 1,04/07/2003,19/11/2022,Canh gac,BinhSi
+B-216,Vo Minh Hieu,Binh nhat,Tieu doan 1,17/10/1985,24/12/2010,Van chuyen,BinhSi
+B-217,Dang Thi Quang,Binh nhi,Tieu doan 2,21/05/1996,06/09/2011,Canh gac,BinhSi
+B-218,Ngo Thi Duc,Binh nhi,Trung doan 3,22/08/1999,02/02/2015,Van chuyen,BinhSi
+B-219,Dang Duy Son,Binh nhat,Trung doan 3,17/12/1994,24/01/2023,Hau can,BinhSi
+B-220,Vo Tam Mai,Binh nhat,Trung doan 3,18/08/1985,18/10/2016,Hau can,BinhSi
+B-221,Bui Quang Mai,Binh nhi,Tieu doan 1,10/08/2002,24/06/2012,Van chuyen,BinhSi
+B-222,Tran Phu Son,Binh nhat,Tieu doan 1,22/05/1993,06/01/2010,Van chuyen,BinhSi
+B-223,Vo Duy Mai,Binh nhi,Trung doan 3,05/07/1997,26/12/2016,Canh gac,BinhSi
+B-224,Nguyen Tam Tu,Binh nhi,Trung doan 3,13/06/1995,09/12/2023,Hau can,BinhSi
+B-225,Dang Thi Duc,Binh nhat,Trung doan 3,03/01/1989,15/07/2016,Hau can,BinhSi
+B-226,Bui Son Anh,Binh nhi,Tieu doan 2,17/03/1989,21/08/2013,Canh gac,BinhSi
+B-227,Dang Son Mai,Binh nhat,Trung doan 3,28/04/1996,24/01/2022,Truyen tin,BinhSi
+B-228,Vo Kien Anh,Binh nhat,Tieu doan 2,02/02/1999,23/02/2018,Hau can,BinhSi
+B-229,Do Phu Mai,Binh nhat,Trung doan 3,04/03/1992,02/05/2017,Truyen tin,BinhSi
+B-230,Le Thanh Son,Binh nhat,Tieu doan 1,27/06/1988,16/01/2020,Van chuyen,BinhSi
+B-231,Nguyen Duy Duc,Binh nhi,Tieu doan 2,12/04/2000,12/01/2023,Truyen tin,BinhSi
+B-232,Tran Son Lan,Binh nhi,Tieu doan 2,10/06/1987,20/10/2011,Canh gac,BinhSi
+B-233,Hoang Kien Son,Binh nhat,Trung doan 3,04/12/1997,02/02/2017,Canh gac,BinhSi
+B-234,Do Phu Duc,Binh nhat,Trung doan 3,15/12/1989,05/01/2012,Hau can,BinhSi
+B-235,Pham Son Duc,Binh nhi,Trung doan 3,25/11/1998,19/03/2013,Canh gac,BinhSi
+B-236,Bui Kien Mai,Binh nhat,Tieu doan 2,01/04/1990,03/08/2010,Van chuyen,BinhSi
+B-237,Hoang Thi Mai,Binh nhat,Trung doan 3,26/03/1992,04/06/2017,Van chuyen,BinhSi
+B-238,Vo Phu Anh,Binh nhat,Trung doan 3,11/04/1998,10/01/2020,Hau can,BinhSi
+B-239,Nguyen Thi Son,Binh nhat,Trung doan 3,09/09/1993,22/12/2010,Hau can,BinhSi
+B-240,Bui Thi Son,Binh nhi,Trung doan 3,11/04/1991,01/05/2017,Canh gac,BinhSi
+B-241,Bui Tam Hieu,Binh nhi,Tieu doan 1,16/12/1990,18/09/2012,Hau can,BinhSi
+B-242,Le Minh Anh,Binh nhat,Trung doan 3,27/06/2001,16/06/2011,Canh gac,BinhSi
+B-243,Pham Tam Anh,Binh nhi,Tieu doan 1,11/11/1985,28/05/2019,Van chuyen,BinhSi
+B-244,Do Anh Anh,Binh nhi,Trung doan 3,18/05/2003,24/08/2012,Truyen tin,BinhSi
+B-245,Le Phu Hieu,Binh nhat,Tieu doan 1,06/02/1986,20/03/2011,Truyen tin,BinhSi
+B-246,Tran Thi Duc,Binh nhi,Tieu doan 1,21/12/1997,21/09/2021,Truyen tin,BinhSi
+B-247,Dang Quang Mai,Binh nhi,Tieu doan 1,06/02/1994,22/02/2014,Canh gac,BinhSi
+B-248,Bui Thanh Lan,Binh nhat,Tieu doan 1,12/05/2001,01/07/2012,Hau can,BinhSi
+B-249,Vo Minh Mai,Binh nhat,Tieu doan 2,08/11/1991,03/06/2016,Canh gac,BinhSi
+B-250,Tran Quang Duc,Binh nhat,Tieu doan 2,05/01/1996,16/11/2022,Van chuyen,BinhSi
+B-251,Vo Phu Duc,Binh nhat,Tieu doan 1,02/07/1987,21/10/2014,Truyen tin,BinhSi
+B-252,Ngo Thanh Duc,Binh nhi,Tieu doan 2,22/01/1990,11/10/2023,Hau can,BinhSi
+B-253,Le Thanh Hieu,Binh nhat,Tieu doan 1,07/03/1993,28/01/2011,Hau can,BinhSi
+B-254,Ngo Kien Anh,Binh nhat,Tieu doan 2,21/08/1997,12/05/2014,Truyen tin,BinhSi
+B-255,Vo Duy Hieu,Binh nhat,Trung doan 3,09/11/1998,14/11/2018,Van chuyen,BinhSi
+B-256,Pham Tam Quang,Binh nhat,Tieu doan 1,26/06/2003,02/02/2023,Van chuyen,BinhSi
+B-257,Vo Son Anh,Binh nhi,Trung doan 3,19/04/1993,01/07/2017,Canh gac,BinhSi
+B-258,Le Thi Tu,Binh nhi,Trung doan 3,17/09/1986,11/11/2016,Truyen tin,BinhSi
+B-259,Vo Thi Tu,Binh nhat,Tieu doan 2,14/03/1986,22/05/2011,Canh gac,BinhSi
+B-260,Le Kien Hieu,Binh nhi,Trung doan 3,07/07/1997,09/09/2016,Canh gac,BinhSi
+B-261,Hoang Thi Hieu,Binh nhi,Tieu doan 1,18/01/2003,18/04/2021,Hau can,BinhSi
+B-262,Le Anh Anh,Binh nhat,Tieu doan 2,24/09/1989,02/09/2023,Van chuyen,BinhSi
+B-263,Vo Quang Anh,Binh nhi,Tieu doan 2,05/12/1994,04/07/2017,Truyen tin,BinhSi
+B-264,Vo Kien Duc,Binh nhi,Tieu doan 2,24/05/1995,02/04/2015,Canh gac,BinhSi
+B-265,Ngo Minh Mai,Binh nhi,Trung doan 3,21/11/2000,08/09/2020,Van chuyen,BinhSi
+B-266,Vo Duy Duc,Binh nhat,Trung doan 3,12/05/1996,07/04/2020,Van chuyen,BinhSi
+B-267,Hoang Minh Quang,Binh nhi,Tieu doan 1,20/03/1993,21/03/2012,Hau can,BinhSi
+B-268,Nguyen Quang Hieu,Binh nhat,Tieu doan 2,28/01/1989,20/10/2019,Truyen tin,BinhSi
+B-269,Pham Duy Mai,Binh nhat,Tieu doan 1,01/06/1991,16/07/2023,Truyen tin,BinhSi
+B-270,Le Thanh Mai,Binh nhi,Trung doan 3,13/12/1985,13/08/2012,Canh gac,BinhSi
+B-271,Bui Son Hieu,Binh nhi,Tieu doan 2,27/05/2002,26/09/2015,Hau can,BinhSi
+B-272,Vo Phu Hieu,Binh nhat,Trung doan 3,02/04/2001,07/07/2011,Van chuyen,BinhSi
+B-273,Do Phu Mai,Binh nhi,Trung doan 3,06/03/2003,24/04/2021,Hau can,BinhSi
+B-274,Do Thanh Son,Binh nhat,Tieu doan 2,01/08/1998,15/04/2019,Canh gac,BinhSi
+B-275,Pham Kien Hieu,Binh nhi,Tieu doan 1,07/07/1996,27/12/2013,Hau can,BinhSi
+B-276,Do Quang Anh,Binh nhi,Tieu doan 1,26/11/1990,02/05/2023,Truyen tin,BinhSi
+B-277,Tran Kien Anh,Binh nhi,Tieu doan 1,11/09/2003,24/07/2018,Van chuyen,BinhSi
+B-278,Pham Quang Tu,Binh nhi,Trung doan 3,20/07/1986,04/11/2016,Canh gac,BinhSi
+B-279,Ngo Anh Mai,Binh nhi,Tieu doan 1,17/10/1987,07/02/2020,Van chuyen,BinhSi
+B-280,Nguyen Minh Mai,Binh nhat,Trung doan 3,25/05/1987,27/08/2014,Van chuyen,BinhSi
+B-281,Bui Anh Mai,Binh nhi,Trung doan 3,23/02/1985,10/12/2015,Truyen tin,BinhSi
+B-282,Bui Minh Mai,Binh nhi,Tieu doan 2,17/03/2003,15/04/2020,Hau can,BinhSi
+B-283,Bui Tam Son,Binh nhi,Trung doan 3,16/11/1991,28/08/2022,Hau can,BinhSi
+B-284,Hoang Duy Anh,Binh nhat,Trung doan 3,20/11/2002,05/02/2016,Canh gac,BinhSi
+B-285,Tran Quang Mai,Binh nhat,Tieu doan 2,01/02/2000,01/09/2010,Truyen tin,BinhSi
+B-286,Vo Duy Son,Binh nhi,Tieu doan 1,06/12/1994,19/10/2015,Truyen tin,BinhSi
+B-287,Pham Minh Duc,Binh nhi,Trung doan 3,01/11/2001,10/06/2020,Truyen tin,BinhSi
+B-288,Pham Tam Duc,Binh nhi,Trung doan 3,08/02/1994,16/02/2016,Van chuyen,BinhSi
+B-289,Vo Thi Son,Binh nhat,Tieu doan 2,03/07/1991,16/08/2023,Van chuyen,BinhSi
+B-290,Nguyen Thanh Hieu,Binh nhi,Tieu doan 2,19/11/2000,15/12/2014,Hau can,BinhSi
+B-291,Pham Duy Duc,Binh nhat,Tieu doan 2,17/12/1999,16/10/2020,Canh gac,BinhSi
+B-292,Do Quang Hieu,Binh nhi,Tieu doan 1,26/06/1994,11/12/2020,Hau can,BinhSi
+B-293,Nguyen Quang Hieu,Binh nhat,Trung doan 3,22/01/2002,07/03/2019,Van chuyen,BinhSi
+B-294,Ngo Son Lan,Binh nhat,Trung doan 3,02/02/1989,02/09/2012,Hau can,BinhSi
+B-295,Bui Son Tu,Binh nhat,Trung doan 3,27/04/1996,09/05/2020,Truyen tin,BinhSi
+B-296,Nguyen Duy Mai,Binh nhat,Trung doan 3,07/06/1987,08/03/2012,Truyen tin,BinhSi
+B-297,Bui Thanh Tu,Binh nhi,Tieu doan 2,03/10/1988,07/06/2016,Van chuyen,BinhSi
+B-298,Vo Phu Hieu,Binh nhi,Trung doan 3,23/08/1986,15/04/2010,Truyen tin,BinhSi
+B-299,Tran Son Lan,Binh nhi,Trung doan 3,25/12/1988,04/03/2021,Canh gac,BinhSi
+B-300,Dang Kien Hieu,Binh nhat,Tieu doan 1,20/04/2003,10/09/2021,Truyen tin,BinhSi
+S-001,Le Kien Mai,Thieu uy,Trung doan 3,06/06/1987,22/09/2004,Tieu doan pho,SiQuan
+S-002,Dang Phu Mai,Thieu uy,Tieu doan 1,08/08/1978,21/03/2002,Chinh tri vien,SiQuan
+S-003,Le Thanh Quang,Trung uy,Tieu doan 2,18/06/1977,23/11/2015,Tieu doan pho,SiQuan
+S-004,Bui Quang Anh,Thieu uy,Tieu doan 2,15/12/1981,26/09/2002,Dai doi truong,SiQuan
+S-005,Do Tam Mai,Thieu uy,Tieu doan 1,02/03/1989,04/12/2007,Tham muu phu,SiQuan
+S-006,Hoang Thi Anh,Thieu uy,Trung doan 3,17/10/1982,19/11/2006,Dai doi truong,SiQuan
+S-007,Nguyen Duy Mai,Thieu uy,Trung doan 3,01/04/1987,14/08/2000,Tieu doan pho,SiQuan
+S-008,Tran Phu Son,Thieu ta,Tieu doan 1,11/05/1988,04/11/2000,Chinh tri vien,SiQuan
+S-009,Pham Tam Anh,Thieu ta,Tieu doan 2,09/01/1989,09/05/2015,Tham muu phu,SiQuan
+S-010,Nguyen Tam Anh,Thieu uy,Tieu doan 1,01/08/1978,16/06/2008,Tham muu phu,SiQuan
+S-011,Ngo Thanh Mai,Dai uy,Trung doan 3,14/03/1985,16/04/2014,Tieu doan pho,SiQuan
+S-012,Vo Tam Lan,Trung uy,Tieu doan 2,15/06/1983,13/09/2011,Chinh tri vien,SiQuan
+S-013,Ngo Thanh Quang,Dai uy,Tieu doan 1,24/11/1983,01/11/2012,Tham muu phu,SiQuan
+S-014,Vo Thanh Son,Thieu uy,Trung doan 3,18/10/1976,23/02/2009,Tieu doan pho,SiQuan
+S-015,Hoang Minh Duc,Thieu ta,Tieu doan 2,19/01/1981,24/03/2009,Tham muu phu,SiQuan
+S-016,Bui Quang Hieu,Thieu uy,Tieu doan 1,22/02/1978,08/03/2005,Tham muu phu,SiQuan
+S-017,Ngo Tam Lan,Trung uy,Tieu doan 2,20/02/1981,10/05/2011,Tham muu phu,SiQuan
+S-018,Nguyen Son Tu,Thieu ta,Tieu doan 2,20/05/1987,27/04/2007,Tieu doan pho,SiQuan
+S-019,Bui Phu Lan,Dai uy,Trung doan 3,15/12/1988,16/11/2014,Chinh tri vien,SiQuan
+S-020,Nguyen Phu Mai,Thieu uy,Tieu doan 2,27/07/1984,27/07/2011,Tham muu phu,SiQuan
+S-021,Dang Son Tu,Thieu uy,Trung doan 3,01/12/1979,24/07/2014,Chinh tri vien,SiQuan
+S-022,Ngo Phu Mai,Thieu uy,Tieu doan 2,09/02/1990,23/01/2001,Tham muu phu,SiQuan
+S-023,Bui Duy Duc,Trung uy,Tieu doan 1,06/05/1983,08/04/2013,Dai doi truong,SiQuan
+S-024,Pham Thi Duc,Dai uy,Tieu doan 2,05/05/1980,10/01/2013,Chinh tri vien,SiQuan
+S-025,Vo Kien Mai,Trung uy,Tieu doan 2,02/02/1987,01/03/2001,Chinh tri vien,SiQuan
+S-026,Ngo Son Hieu,Trung uy,Tieu doan 1,17/03/1980,10/10/2007,Tieu doan pho,SiQuan
+S-027,Do Tam Mai,Thieu uy,Trung doan 3,18/10/1979,07/09/2005,Chinh tri vien,SiQuan
+S-028,Tran Thi Hieu,Thieu ta,Tieu doan 1,20/11/1976,15/11/2010,Dai doi truong,SiQuan
+S-029,Hoang Kien Quang,Dai uy,Trung doan 3,26/03/1984,24/04/2005,Chinh tri vien,SiQuan
+S-030,Bui Phu Quang,Thieu ta,Tieu doan 2,26/07/1985,03/12/2006,Chinh tri vien,SiQuan
+S-031,Tran Kien Duc,Trung uy,Trung doan 3,06/06/1985,04/05/2005,Chinh tri vien,SiQuan
+S-032,Vo Minh Anh,Dai uy,Trung doan 3,09/12/1984,26/04/2000,Chinh tri vien,SiQuan
+S-033,Tran Thi Lan,Thieu uy,Trung doan 3,24/11/1982,08/05/2009,Tham muu phu,SiQuan
+S-034,Pham Minh Quang,Thieu ta,Tieu doan 1,12/10/1983,01/04/2015,Tieu doan pho,SiQuan
+S-035,Pham Duy Son,Thieu uy,Trung doan 3,06/08/1982,14/06/2011,Tham muu phu,SiQuan
+S-036,Dang Thanh Lan,Trung uy,Tieu doan 1,24/02/1982,09/08/2014,Tham muu phu,SiQuan
+S-037,Tran Kien Quang,Trung uy,Tieu doan 1,22/12/1976,08/09/2010,Tieu doan pho,SiQuan
+S-038,Bui Quang Son,Trung uy,Tieu doan 2,06/02/1985,19/07/2015,Chinh tri vien,SiQuan
+S-039,Vo Minh Anh,Thieu ta,Trung doan 3,16/06/1979,07/04/2008,Tieu doan pho,SiQuan
+S-040,Tran Tam Mai,Thieu ta,Trung doan 3,05/01/1982,04/02/2005,Dai doi truong,SiQuan
+S-041,Hoang Quang Lan,Thieu uy,Tieu doan 2,28/06/1976,08/12/2010,Chinh tri vien,SiQuan
+S-042,Nguyen Anh Duc,Thieu uy,Trung doan 3,26/06/1986,12/01/2007,Tham muu phu,SiQuan
+S-043,Tran Son Quang,Dai uy,Tieu doan 2,11/09/1988,07/02/2009,Tieu doan pho,SiQuan
+S-044,Le Anh Mai,Thieu ta,Tieu doan 1,10/04/1979,25/04/2002,Tham muu phu,SiQuan
+S-045,Bui Thi Tu,Thieu uy,Trung doan 3,18/12/1977,14/03/2005,Tham muu phu,SiQuan
+S-046,Hoang Duy Hieu,Thieu ta,Trung doan 3,08/06/1982,11/02/2005,Dai doi truong,SiQuan
+S-047,Hoang Anh Quang,Thieu uy,Tieu doan 1,15/07/1988,20/11/2015,Tham muu phu,SiQuan
+S-048,Pham Phu Mai,Trung uy,Trung doan 3,21/10/1984,28/05/2005,Chinh tri vien,SiQuan
+S-049,Hoang Phu Quang,Thieu uy,Tieu doan 1,20/08/1975,17/11/2012,Tham muu phu,SiQuan
+S-050,Bui Thi Lan,Thieu uy,Tieu doan 1,06/03/1982,04/07/2008,Tham muu phu,SiQuan
+S-051,Tran Quang Duc,Thieu ta,Trung doan 3,02/07/1975,19/01/2007,Tham muu phu,SiQuan
+S-052,Pham Minh Quang,Thieu ta,Tieu doan 2,11/01/1976,07/01/2012,Tieu doan pho,SiQuan
+S-053,Tran Tam Anh,Thieu ta,Trung doan 3,16/01/1980,21/10/2013,Chinh tri vien,SiQuan
+S-054,Do Son Hieu,Thieu uy,Tieu doan 1,24/06/1983,04/04/2000,Tham muu phu,SiQuan
+S-055,Pham Kien Son,Thieu ta,Tieu doan 1,11/04/1990,25/12/2001,Chinh tri vien,SiQuan
+S-056,Bui Anh Mai,Thieu uy,Tieu doan 2,06/01/1981,22/06/2007,Tham muu phu,SiQuan
+S-057,Tran Son Hieu,Thieu uy,Tieu doan 2,20/03/1988,16/12/2008,Tham muu phu,SiQuan
+S-058,Vo Quang Duc,Thieu uy,Tieu doan 1,01/01/1979,19/08/2010,Dai doi truong,SiQuan
+S-059,Le Thanh Duc,Dai uy,Trung doan 3,13/05/1981,10/06/2012,Tieu doan pho,SiQuan
+S-060,Pham Tam Hieu,Thieu uy,Tieu doan 1,25/09/1978,23/04/2004,Tham muu phu,SiQuan
+S-061,Do Thanh Hieu,Dai uy,Tieu doan 1,06/05/1977,05/02/2011,Dai doi truong,SiQuan
+S-062,Bui Quang Anh,Thieu uy,Tieu doan 2,03/04/1982,12/06/2006,Tham muu phu,SiQuan
+S-063,Bui Kien Quang,Thieu uy,Tieu doan 1,24/04/1975,13/07/2007,Tieu doan pho,SiQuan
+S-064,Tran Duy Mai,Trung uy,Tieu doan 1,07/04/1980,10/01/2004,Tham muu phu,SiQuan
+S-065,Ngo Quang Lan,Trung uy,Trung doan 3,26/09/1975,23/05/2006,Tieu doan pho,SiQuan
+S-066,Dang Son Hieu,Thieu ta,Tieu doan 1,25/01/1985,11/09/2004,Chinh tri vien,SiQuan
+S-067,Do Duy Tu,Thieu uy,Tieu doan 1,23/02/1983,09/02/2001,Tham muu phu,SiQuan
+S-068,Ngo Duy Hieu,Dai uy,Tieu doan 1,23/09/1980,02/09/2004,Dai doi truong,SiQuan
+S-069,Pham Duy Lan,Dai uy,Trung doan 3,11/06/1976,06/03/2007,Dai doi truong,SiQuan
+S-070,Do Anh Hieu,Thieu ta,Tieu doan 1,16/07/1985,21/04/2002,Tieu doan pho,SiQuan
+S-071,Le Kien Tu,Thieu uy,Tieu doan 1,07/05/1984,24/06/2009,Tieu doan pho,SiQuan
+S-072,Dang Minh Mai,Thieu ta,Trung doan 3,20/02/1990,05/10/2003,Tham muu phu,SiQuan
+S-073,Tran Phu Hieu,Dai uy,Tieu doan 1,04/04/1976,15/03/2013,Tieu doan pho,SiQuan
+S-074,Do Thanh Son,Trung uy,Tieu doan 2,28/01/1976,18/10/2015,Tieu doan pho,SiQuan
+S-075,Do Son Tu,Thieu uy,Tieu doan 1,13/12/1989,14/09/2013,Chinh tri vien,SiQuan
+S-076,Do Thanh Mai,Dai uy,Tieu doan 2,05/11/1989,22/03/2001,Dai doi truong,SiQuan
+S-077,Do Anh Tu,Dai uy,Tieu doan 2,16/02/1985,12/04/2008,Tham muu phu,SiQuan
+S-078,Hoang Tam Anh,Dai uy,Tieu doan 2,11/11/1985,13/10/2010,Dai doi truong,SiQuan
+S-079,Do Son Son,Dai uy,Tieu doan 1,19/10/1977,06/12/2014,Tieu doan pho,SiQuan
+S-080,Pham Anh Quang,Thieu ta,Tieu doan 1,22/03/1987,05/12/2013,Chinh tri vien,SiQuan
+S-081,Tran Anh Hieu,Thieu ta,Trung doan 3,10/02/1982,05/10/2006,Dai doi truong,SiQuan
+S-082,Pham Kien Mai,Dai uy,Trung doan 3,18/02/1975,26/07/2002,Tieu doan pho,SiQuan
+S-083,Pham Thanh Hieu,Dai uy,Tieu doan 1,01/06/1990,03/11/2009,Tieu doan pho,SiQuan
+S-084,Ngo Phu Mai,Thieu ta,Trung doan 3,28/12/1980,28/04/2006,Dai doi truong,SiQuan
+S-085,Le Son Anh,Thieu ta,Tieu doan 2,08/08/1979,15/11/2006,Dai doi truong,SiQuan
+S-086,Le Son Quang,Thieu uy,Trung doan 3,24/11/1990,22/08/2007,Dai doi truong,SiQuan
+S-087,Ngo Quang Tu,Dai uy,Tieu doan 2,13/07/1977,03/08/2014,Tieu doan pho,SiQuan
+S-088,Bui Son Duc,Thieu ta,Tieu doan 1,19/03/1979,07/04/2010,Tieu doan pho,SiQuan
+S-089,Hoang Thanh Son,Thieu uy,Trung doan 3,18/06/1986,28/10/2008,Tieu doan pho,SiQuan
+S-090,Vo Quang Son,Thieu ta,Tieu doan 1,17/01/1975,13/03/2006,Tham muu phu,SiQuan
+S-091,Pham Thi Lan,Dai uy,Tieu doan 2,06/08/1980,06/12/2013,Dai doi truong,SiQuan
+S-092,Vo Kien Duc,Dai uy,Trung doan 3,19/05/1978,21/02/2008,Tham muu phu,SiQuan
+S-093,Nguyen Son Son,Thieu ta,Trung doan 3,27/07/1983,11/10/2010,Tham muu phu,SiQuan
+S-094,Tran Thanh Anh,Dai uy,Tieu doan 1,16/01/1975,27/09/2000,Chinh tri vien,SiQuan
+S-095,Nguyen Duy Son,Trung uy,Trung doan 3,04/12/1978,03/03/2003,Tieu doan pho,SiQuan
+S-096,Pham Duy Anh,Trung uy,Trung doan 3,26/06/1989,08/07/2001,Chinh tri vien,SiQuan
+S-097,Nguyen Phu Anh,Dai uy,Trung doan 3,14/12/1980,27/10/2012,Dai doi truong,SiQuan
+S-098,Dang Anh Hieu,Thieu ta,Tieu doan 1,07/12/1984,05/04/2003,Tham muu phu,SiQuan
+S-099,Bui Thi Lan,Trung uy,Tieu doan 2,01/06/1981,17/11/2000,Dai doi truong,SiQuan
+S-100,Hoang Kien Anh,Trung uy,Tieu doan 1,06/08/1975,11/02/2002,Tieu doan pho,SiQuan
