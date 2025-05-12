@@ -232,6 +232,7 @@ public:
 
 int main() {
     DanhSachQuanNhan DSQN;
+    DSQN.docFile("quannhan.txt");
     DSVK qlVK;
     QuanNhan *ptr;
     VuKhi* AK = new Sung("AK-47", 400.0, 70, 4.3, "San sang", 10);
@@ -242,18 +243,21 @@ int main() {
     qlVK.themVuKhi(M16);
     qlVK.themVuKhi(AWP);
     qlVK.themVuKhi(M107);
-    //qlQN.thongKeTheoCapBac();
-    // qlQN.Duyet();
-    DSQN.docFile("quannhan.txt");
-    DSQN.duyetDonVi("Tieu doan 5");
+    DSQN.thongKeTheoCapBac();
+    DSQN.Duyet();
+    DSQN.duyetDonVi("Tieu doan 2");
     ptr = DSQN.getQuanNhan(6325);
     ptr->capPhatVuKhi(AK);
+    ptr->khaiHoa();
     ptr = DSQN.getQuanNhan(7613);
     ptr->capPhatVuKhi(M16);
     ptr->khaiHoa();
     ptr = DSQN.getQuanNhan(6325);
+    ptr->capPhatVuKhi(AWP);
     ptr->khaiHoa();
     ptr = DSQN.getQuanNhan(7613);
+    ptr->capPhatVuKhi(M16);
+
     ptr->khaiHoa();
     DSQN.ghiFile("output.txt");
 
