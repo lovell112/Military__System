@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/coding/QuanLyQuanDoi/cmake-build-debug"
+			"value" : "c:/Users/Lenovo/Documents/GitHub/Military__System/src/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/coding/QuanLyQuanDoi/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Lenovo/Documents/GitHub/Military__System/src/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/coding/QuanLyQuanDoi"
+			"value" : "C:/Users/Lenovo/Documents/GitHub/Military__System/src"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/coding/QuanLyQuanDoi/cmake-build-debug"
+			"value" : "C:/Users/Lenovo/Documents/GitHub/Military__System/src/cmake-build-debug"
 		},
 		{
 			"name" : "QuanLyQuanDoi_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/coding/QuanLyQuanDoi"
+			"value" : "C:/Users/Lenovo/Documents/GitHub/Military__System/src"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

@@ -33,7 +33,9 @@ class Sung : public VuKhi {
     int soLuongDan;
 public:
     Sung(string t, float tb, int st, float tl, string tt, int td)
-        : VuKhi(t, "Sung", tb, st, tl, tt), tocDoBan(td) {}
+        : VuKhi(t, "Sung", tb, st, tl, tt), tocDoBan(td) {
+        soLuongDan = 1;
+    }
 
     void napDan() override {
             cout << "Dang nap dan cho: " << ten << endl;
@@ -238,6 +240,8 @@ int main() {
     VuKhi* M107  = new Sung("Barrett M107", 500.0, 65, 12.9, "San sang", 1);
     qlVK.themVuKhi(AK);
     qlVK.themVuKhi(M16);
+    qlVK.themVuKhi(AWP);
+    qlVK.themVuKhi(M107);
     //qlQN.thongKeTheoCapBac();
     // qlQN.Duyet();
     DSQN.docFile("quannhan.txt");
@@ -247,18 +251,10 @@ int main() {
     ptr = DSQN.getQuanNhan(7613);
     ptr->capPhatVuKhi(M16);
     ptr->khaiHoa();
-    /*ptr = DSQN.getQuanNhan(3165);
-    ptr->capPhatVuKhi(AWP);
-    ptr = DSQN.getQuanNhan(8486);
-    ptr->capPhatVuKhi(M107);
     ptr = DSQN.getQuanNhan(6325);
     ptr->khaiHoa();
     ptr = DSQN.getQuanNhan(7613);
     ptr->khaiHoa();
-    ptr = DSQN.getQuanNhan(3165);*/
-    /*ptr->khaiHoa();
-    ptr = DSQN.getQuanNhan(8486);
-    ptr->khaiHoa();*/
     DSQN.ghiFile("output.txt");
 
     return 0;

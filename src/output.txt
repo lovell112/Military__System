@@ -1,0 +1,69 @@
+9834,Nguyen Van An,Binh nhat,Tieu doan 1,Ha Noi,2003
+8574,Ngo Thi Binh,Trung uy,Tieu doan 5,Hai Phong,1995
+8922,Bui Duc Cuong,Thieu uy,Tieu doan 4,Da Nang,1998
+5477,Nguyen Van An,Binh nhi,Tieu doan 5,Quang Ninh,2004
+3255,Phan Van Hung,Binh nhat,Tieu doan 1,Hai Duong,2003
+1251,Vu Quoc Huy,Trung si,Tieu doan 3,Hung Yen,2001
+3732,Le Minh Duc,Binh nhat,Tieu doan 1,Thai Binh,2002
+5406,Le Minh Duc,Thieu uy,Tieu doan 5,Nam Dinh,1999
+6020,Ngo Thi Binh,Binh nhi,Tieu doan 4,Ninh Binh,2004
+8884,Pham Thi Lan,Trung uy,Tieu doan 2,Thanh Hoa,1996
+1288,Phan Van Hung,Binh nhat,Tieu doan 5,Nghe An,2003
+2142,Ngo Thi Binh,Trung si,Tieu doan 1,Ha Tinh,2000
+4206,Pham Thi Lan,Binh nhi,Tieu doan 2,Quang Binh,2004
+6461,Pham Thi Lan,Dai uy,Tieu doan 4,Quang Tri,1990
+2391,Pham Thi Lan,Trung uy,Tieu doan 3,Thua Thien Hue,1995
+3526,Dang Van Khoa,Binh nhat,Tieu doan 4,Da Nang,2003
+4152,Nguyen Van An,Trung si,Tieu doan 1,Quang Nam,2001
+2301,Le Minh Duc,Thieu uy,Tieu doan 1,Quang Ngai,1998
+2983,Pham Thi Lan,Dai uy,Tieu doan 1,Binh Dinh,1991
+3315,Tran Thi Mai,Binh nhi,Tieu doan 1,Phu Yen,2004
+2705,Bui Duc Cuong,Binh nhat,Tieu doan 3,Khanh Hoa,2003
+6012,Pham Thi Lan,Trung si,Tieu doan 2,Ninh Thuan,2000
+8985,Tran Thi Mai,Thieu uy,Tieu doan 4,Binh Thuan,1999
+3088,Pham Thi Lan,Trung uy,Tieu doan 1,Ba Ria - Vung Tau,1995
+8151,Phan Van Hung,Binh nhat,Tieu doan 5,Dong Nai,2003
+7983,Tran Thi Mai,Binh nhi,Tieu doan 3,Binh Duong,2004
+3447,Hoang Van Thang,Trung si,Tieu doan 3,Tay Ninh,2001
+6621,Pham Thi Lan,Binh nhat,Tieu doan 1,Thanh Pho Ho Chi Minh,2003
+8462,Tran Thi Mai,Thieu uy,Tieu doan 5,Long An,1999
+9742,Ngo Thi Binh,Trung si,Tieu doan 2,Tien Giang,2000
+3152,Nguyen Van An,Thuong uy,Tieu doan 4,Ben Tre,1993
+7242,Hoang Van Thang,Trung uy,Tieu doan 4,Tra Vinh,1996
+8429,Le Minh Duc,Binh nhat,Tieu doan 1,Vinh Long,2003
+4242,Le Minh Duc,Thieu uy,Tieu doan 1,Dong Thap,1998
+6034,Tran Thi Mai,Binh nhi,Tieu doan 2,An Giang,2004
+4272,Nguyen Van An,Thuong uy,Tieu doan 4,Kien Giang,1992
+3165,Pham Thi Lan,Binh nhat,Tieu doan 5,Can Tho,2003
+2269,Hoang Van Thang,Trung si,Tieu doan 3,Hau Giang,2001
+1560,Dang Van Khoa,Trung uy,Tieu doan 5,Soc Trang,1996
+9050,Phan Van Hung,Trung si,Tieu doan 2,Bac Lieu,2000
+9626,Bui Duc Cuong,Binh nhat,Tieu doan 4,Ca Mau,2003
+4517,Vu Quoc Huy,Binh nhi,Tieu doan 2,Ha Noi,2004
+5109,Pham Thi Lan,Trung si,Tieu doan 4,Hai Phong,2001
+9797,Bui Duc Cuong,Binh nhat,Tieu doan 1,Da Nang,2003
+3228,Le Minh Duc,Trung uy,Tieu doan 2,Quang Ninh,1997
+7274,Hoang Van Thang,Binh nhi,Tieu doan 1,Hai Duong,2004
+9480,Hoang Van Thang,Trung si,Tieu doan 5,Hung Yen,2000
+3932,Nguyen Van An,Binh nhat,Tieu doan 1,Thai Binh,2003
+1300,Bui Duc Cuong,Binh nhi,Tieu doan 2,Nam Dinh,2004
+3583,Dang Van Khoa,Thieu uy,Tieu doan 1,Ninh Binh,1998
+7522,Nguyen Van An,Trung si,Tieu doan 2,Thanh Hoa,2001
+8529,Pham Thi Lan,Binh nhat,Tieu doan 1,Nghe An,2003
+6762,Hoang Van Thang,Thuong uy,Tieu doan 4,Ha Tinh,1994
+3368,Pham Thi Lan,Binh nhi,Tieu doan 2,Quang Binh,2004
+2326,Nguyen Van An,Trung uy,Tieu doan 1,Quang Tri,1996
+2711,Hoang Van Thang,Binh nhat,Tieu doan 4,Thua Thien Hue,2003
+1539,Bui Duc Cuong,Trung si,Tieu doan 1,Da Nang,2001
+7613,Pham Thi Lan,Thieu uy,Tieu doan 5,Quang Nam,1999
+5338,Vu Quoc Huy,Thuong uy,Tieu doan 4,Quang Ngai,1993
+9030,Tran Thi Mai,Binh nhi,Tieu doan 3,Binh Dinh,2004
+6574,Dang Van Khoa,Trung uy,Tieu doan 3,Phu Yen,1997
+7523,Le Minh Duc,Binh nhat,Tieu doan 4,Khanh Hoa,2003
+8913,Vu Quoc Huy,Binh nhi,Tieu doan 3,Ninh Thuan,2004
+1816,Bui Duc Cuong,Trung uy,Tieu doan 1,Binh Thuan,1995
+9813,Tran Thi Mai,Thuong uy,Tieu doan 2,Ba Ria - Vung Tau,1994
+6325,Le Minh Duc,Thieu uy,Tieu doan 5,Dong Nai,1999
+3214,Hoang Van Thang,Thuong uy,Tieu doan 4,Binh Duong,1992
+2279,Ngo Thi Binh,Trung si,Tieu doan 2,Tay Ninh,2000
+5996,Bui Duc Cuong,Thieu uy,Tieu doan 3,Thanh Pho Ho Chi Minh,1998
