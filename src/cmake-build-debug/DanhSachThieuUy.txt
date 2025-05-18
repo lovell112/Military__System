@@ -1,0 +1,20 @@
+QN010,Phan Van C,Thieu uy,Tieu đoan 1,Vung Tau,30/08/1983,08/06/2015
+QN013,Bui Van E,Thieu uy,Tieu đoan 3,Bien Hoa,07/11/1998,01/11/2022
+QN014,Hoang Van A,Thieu uy,Tieu đoan 5,Bien Hoa,19/01/2005,04/03/2016
+QN018,Đang Van E,Thieu uy,Su đoan 9,Vung Tau,13/05/1983,01/01/2024
+QN025,Hoang Van A,Thieu uy,Tieu đoan 1,Hue,25/11/1985,18/10/2016
+QN027,Hoang Van B,Thieu uy,Lu đoan Phao binh,Hai Phong,17/12/1974,24/01/2024
+QN034,Tran Van D,Thieu uy,Trung đoan 2,Vung Tau,14/08/1979,10/04/2018
+QN080,Pham Van A,Thieu uy,Tieu đoan 1,Ha Noi,13/05/2002,17/12/2018
+QN086,Pham Van H,Thieu uy,Bo Tu lenh TPHCM,Buon Ma Thuot,13/07/1984,24/12/2017
+QN098,Đang Van B,Thieu uy,Lu đoan Cong binh,Đa Nang,26/02/2005,22/02/2018
+QN131,Vu Van D,Thieu uy,Tieu đoan 5,Ha Noi,09/02/1984,28/02/2020
+QN160,Nguyen Van F,Thieu uy,Lu đoan Cong binh,Hai Phong,28/03/1991,02/02/2018
+QN174,Đang Van B,Thieu uy,Trung đoan 2,Đa Nang,14/06/1978,22/09/2017
+QN177,Nguyen Van A,Thieu uy,Lu đoan Phao binh,Ha Noi,20/02/1986,21/03/2021
+QN190,Vu Van B,Thieu uy,Tieu đoan 3,Hue,09/04/1984,18/10/2019
+QN206,Nguyen Van L,Thieu uy,Tieu đoan 4,Bien Hoa,17/11/1987,19/10/2019
+QN221,Pham Van E,Thieu uy,Lu đoan Cong binh,Can Tho,09/04/1999,23/03/2016
+QN223,Bui Van F,Thieu uy,Quan khu 7,Đa Nang,31/08/1975,07/01/2020
+QN242,Pham Van D,Thieu uy,Lu đoan Phao binh,Buon Ma Thuot,20/01/1988,22/03/2021
+QN278,Phan Van D,Thieu uy,Tieu đoan 2,Bien Hoa,03/03/1994,24/05/2019

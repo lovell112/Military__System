@@ -1,69 +1,300 @@
-9834,Nguyen Van An,Binh nhat,Tieu doan 1,Ha Noi,2003
-8574,Ngo Thi Binh,Trung uy,Tieu doan 5,Hai Phong,1995
-8922,Bui Duc Cuong,Thieu uy,Tieu doan 4,Da Nang,1998
-5477,Nguyen Van An,Binh nhi,Tieu doan 5,Quang Ninh,2004
-3255,Phan Van Hung,Binh nhat,Tieu doan 1,Hai Duong,2003
-1251,Vu Quoc Huy,Trung si,Tieu doan 3,Hung Yen,2001
-3732,Le Minh Duc,Binh nhat,Tieu doan 1,Thai Binh,2002
-5406,Le Minh Duc,Thieu uy,Tieu doan 5,Nam Dinh,1999
-6020,Ngo Thi Binh,Binh nhi,Tieu doan 4,Ninh Binh,2004
-8884,Pham Thi Lan,Trung uy,Tieu doan 2,Thanh Hoa,1996
-1288,Phan Van Hung,Binh nhat,Tieu doan 5,Nghe An,2003
-2142,Ngo Thi Binh,Trung si,Tieu doan 1,Ha Tinh,2000
-4206,Pham Thi Lan,Binh nhi,Tieu doan 2,Quang Binh,2004
-6461,Pham Thi Lan,Dai uy,Tieu doan 4,Quang Tri,1990
-2391,Pham Thi Lan,Trung uy,Tieu doan 3,Thua Thien Hue,1995
-3526,Dang Van Khoa,Binh nhat,Tieu doan 4,Da Nang,2003
-4152,Nguyen Van An,Trung si,Tieu doan 1,Quang Nam,2001
-2301,Le Minh Duc,Thieu uy,Tieu doan 1,Quang Ngai,1998
-2983,Pham Thi Lan,Dai uy,Tieu doan 1,Binh Dinh,1991
-3315,Tran Thi Mai,Binh nhi,Tieu doan 1,Phu Yen,2004
-2705,Bui Duc Cuong,Binh nhat,Tieu doan 3,Khanh Hoa,2003
-6012,Pham Thi Lan,Trung si,Tieu doan 2,Ninh Thuan,2000
-8985,Tran Thi Mai,Thieu uy,Tieu doan 4,Binh Thuan,1999
-3088,Pham Thi Lan,Trung uy,Tieu doan 1,Ba Ria - Vung Tau,1995
-8151,Phan Van Hung,Binh nhat,Tieu doan 5,Dong Nai,2003
-7983,Tran Thi Mai,Binh nhi,Tieu doan 3,Binh Duong,2004
-3447,Hoang Van Thang,Trung si,Tieu doan 3,Tay Ninh,2001
-6621,Pham Thi Lan,Binh nhat,Tieu doan 1,Thanh Pho Ho Chi Minh,2003
-8462,Tran Thi Mai,Thieu uy,Tieu doan 5,Long An,1999
-9742,Ngo Thi Binh,Trung si,Tieu doan 2,Tien Giang,2000
-3152,Nguyen Van An,Thuong uy,Tieu doan 4,Ben Tre,1993
-7242,Hoang Van Thang,Trung uy,Tieu doan 4,Tra Vinh,1996
-8429,Le Minh Duc,Binh nhat,Tieu doan 1,Vinh Long,2003
-4242,Le Minh Duc,Thieu uy,Tieu doan 1,Dong Thap,1998
-6034,Tran Thi Mai,Binh nhi,Tieu doan 2,An Giang,2004
-4272,Nguyen Van An,Thuong uy,Tieu doan 4,Kien Giang,1992
-3165,Pham Thi Lan,Binh nhat,Tieu doan 5,Can Tho,2003
-2269,Hoang Van Thang,Trung si,Tieu doan 3,Hau Giang,2001
-1560,Dang Van Khoa,Trung uy,Tieu doan 5,Soc Trang,1996
-9050,Phan Van Hung,Trung si,Tieu doan 2,Bac Lieu,2000
-9626,Bui Duc Cuong,Binh nhat,Tieu doan 4,Ca Mau,2003
-4517,Vu Quoc Huy,Binh nhi,Tieu doan 2,Ha Noi,2004
-5109,Pham Thi Lan,Trung si,Tieu doan 4,Hai Phong,2001
-9797,Bui Duc Cuong,Binh nhat,Tieu doan 1,Da Nang,2003
-3228,Le Minh Duc,Trung uy,Tieu doan 2,Quang Ninh,1997
-7274,Hoang Van Thang,Binh nhi,Tieu doan 1,Hai Duong,2004
-9480,Hoang Van Thang,Trung si,Tieu doan 5,Hung Yen,2000
-3932,Nguyen Van An,Binh nhat,Tieu doan 1,Thai Binh,2003
-1300,Bui Duc Cuong,Binh nhi,Tieu doan 2,Nam Dinh,2004
-3583,Dang Van Khoa,Thieu uy,Tieu doan 1,Ninh Binh,1998
-7522,Nguyen Van An,Trung si,Tieu doan 2,Thanh Hoa,2001
-8529,Pham Thi Lan,Binh nhat,Tieu doan 1,Nghe An,2003
-6762,Hoang Van Thang,Thuong uy,Tieu doan 4,Ha Tinh,1994
-3368,Pham Thi Lan,Binh nhi,Tieu doan 2,Quang Binh,2004
-2326,Nguyen Van An,Trung uy,Tieu doan 1,Quang Tri,1996
-2711,Hoang Van Thang,Binh nhat,Tieu doan 4,Thua Thien Hue,2003
-1539,Bui Duc Cuong,Trung si,Tieu doan 1,Da Nang,2001
-7613,Pham Thi Lan,Thieu uy,Tieu doan 5,Quang Nam,1999
-5338,Vu Quoc Huy,Thuong uy,Tieu doan 4,Quang Ngai,1993
-9030,Tran Thi Mai,Binh nhi,Tieu doan 3,Binh Dinh,2004
-6574,Dang Van Khoa,Trung uy,Tieu doan 3,Phu Yen,1997
-7523,Le Minh Duc,Binh nhat,Tieu doan 4,Khanh Hoa,2003
-8913,Vu Quoc Huy,Binh nhi,Tieu doan 3,Ninh Thuan,2004
-1816,Bui Duc Cuong,Trung uy,Tieu doan 1,Binh Thuan,1995
-9813,Tran Thi Mai,Thuong uy,Tieu doan 2,Ba Ria - Vung Tau,1994
-6325,Le Minh Duc,Thieu uy,Tieu doan 5,Dong Nai,1999
-3214,Hoang Van Thang,Thuong uy,Tieu doan 4,Binh Duong,1992
-2279,Ngo Thi Binh,Trung si,Tieu doan 2,Tay Ninh,2000
-5996,Bui Duc Cuong,Thieu uy,Tieu doan 3,Thanh Pho Ho Chi Minh,1998
+QN001,Nguyen Van G,Thuong ta,Su đoan 9,Ha Noi,16/03/2002,19/11/2023
+QN002,Pham Van C,Thuong uy,Trung đoan 2,Nha Trang,28/09/2001,06/11/2024
+QN003,Đang Van H,Binh nhi,Lu đoan Cong binh,Hue,04/02/1988,30/12/2022
+QN004,Vu Van A,Binh nhi,Su đoan 5,TP HCM,09/11/2004,30/09/2020
+QN005,Bui Van F,Binh nhi,Su đoan 9,Buon Ma Thuot,19/07/1995,26/11/2016
+QN006,Phan Van G,Thuong uy,Lu đoan Phao binh,Buon Ma Thuot,10/10/1995,09/01/2016
+QN007,Vu Van F,Thuong si,Tieu đoan 4,Nha Trang,23/11/1998,19/02/2025
+QN008,Bui Van G,Đai uy,Lu đoan Phao binh,Vung Tau,07/08/1993,23/07/2018
+QN009,Bui Van B,Binh nhat,Quan khu 7,Bien Hoa,07/05/1978,27/10/2022
+QN010,Phan Van C,Thieu uy,Tieu đoan 1,Vung Tau,30/08/1983,08/06/2015
+QN011,Hoang Van K,Thuong ta,Quan khu 7,Hai Phong,16/10/1987,13/06/2022
+QN012,Le Van C,Trung uy,Tieu đoan 2,Hue,28/11/1974,29/04/2024
+QN013,Bui Van E,Thieu uy,Tieu đoan 3,Bien Hoa,07/11/1998,01/11/2022
+QN014,Hoang Van A,Thieu uy,Tieu đoan 5,Bien Hoa,19/01/2005,04/03/2016
+QN015,Vu Van D,Thuong si,Su đoan 5,Vung Tau,31/12/1976,06/04/2024
+QN016,Tran Van L,Thuong uy,Bo Tu lenh TPHCM,Vung Tau,02/09/1986,13/04/2017
+QN017,Pham Van C,Trung ta,Trung đoan 1,Can Tho,21/04/2003,16/01/2020
+QN018,Đang Van E,Thieu uy,Su đoan 9,Vung Tau,13/05/1983,01/01/2024
+QN019,Vo Van E,Ha si,Trung đoan 2,Hue,08/11/1984,04/07/2023
+QN020,Vo Van F,Binh nhi,Tieu đoan 5,Hue,07/04/1984,09/12/2015
+QN021,Hoang Van H,Ha si,Quan khu 7,Đa Nang,09/01/1975,26/04/2020
+QN022,Đang Van G,Binh nhi,Tieu đoan 3,Hai Phong,31/03/2002,22/11/2023
+QN023,Pham Van B,Trung uy,Quan khu 7,Buon Ma Thuot,17/11/1992,15/03/2017
+QN024,Phan Van D,Trung uy,Tieu đoan 2,Can Tho,02/10/1978,06/03/2016
+QN025,Hoang Van A,Thieu uy,Tieu đoan 1,Hue,25/11/1985,18/10/2016
+QN026,Le Van D,Thuong si,Tieu đoan 5,Hai Phong,09/01/1979,15/03/2016
+QN027,Hoang Van B,Thieu uy,Lu đoan Phao binh,Hai Phong,17/12/1974,24/01/2024
+QN028,Vo Van L,Thuong uy,Su đoan 5,Can Tho,23/03/1996,09/11/2021
+QN029,Vo Van G,Thuong ta,Tieu đoan 2,Đa Nang,03/07/2003,31/03/2020
+QN030,Phan Van E,Thuong si,Su đoan 9,Đa Nang,25/07/1986,03/01/2024
+QN031,Bui Van F,Thuong uy,Trung đoan 2,Hue,07/07/1997,20/02/2020
+QN032,Pham Van C,Trung uy,Su đoan 5,Vung Tau,29/04/1990,01/03/2018
+QN033,Đang Van B,Thuong uy,Tieu đoan 5,Hue,07/09/2000,06/12/2023
+QN034,Tran Van D,Thieu uy,Trung đoan 2,Vung Tau,14/08/1979,10/04/2018
+QN035,Pham Van E,Trung ta,Tieu đoan 3,Nha Trang,01/08/1994,11/08/2022
+QN036,Phan Van A,Trung si,Quan khu 7,Vung Tau,11/07/2002,05/08/2015
+QN037,Le Van C,Trung si,Trung đoan 1,Can Tho,30/08/1985,06/09/2015
+QN038,Vo Van L,Đai ta,Quan khu 7,Can Tho,03/06/1990,04/06/2015
+QN039,Pham Van K,Thuong si,Trung đoan 1,Ha Noi,18/03/2004,25/07/2023
+QN040,Tran Van B,Trung si,Lu đoan Phao binh,Bien Hoa,19/06/1982,08/09/2023
+QN041,Tran Van C,Trung ta,Tieu đoan 4,Đa Nang,25/07/1976,09/05/2018
+QN042,Nguyen Van K,Thuong ta,Bo Tu lenh TPHCM,Đa Nang,13/12/2004,27/05/2022
+QN043,Vo Van H,Trung ta,Lu đoan Cong binh,Bien Hoa,03/08/1989,07/07/2016
+QN044,Đang Van B,Đai ta,Trung đoan 2,TP HCM,08/11/1985,18/05/2016
+QN045,Le Van G,Đai ta,Tieu đoan 4,Hue,26/11/1992,17/12/2016
+QN046,Hoang Van K,Trung si,Tieu đoan 5,Đa Nang,28/06/1992,09/02/2021
+QN047,Vu Van E,Trung si,Su đoan 5,Ha Noi,01/10/1977,20/05/2020
+QN048,Tran Van H,Thieu ta,Lu đoan Cong binh,Nha Trang,22/07/1979,25/09/2020
+QN049,Bui Van G,Trung uy,Lu đoan Phao binh,Ha Noi,23/07/1990,17/11/2023
+QN050,Vo Van D,Thuong ta,Tieu đoan 2,Buon Ma Thuot,02/06/1998,16/01/2023
+QN051,Le Van L,Thieu ta,Tieu đoan 1,Vung Tau,17/03/1978,20/10/2023
+QN052,Hoang Van F,Binh nhat,Su đoan 5,Ha Noi,06/09/1991,13/10/2023
+QN053,Vo Van F,Binh nhat,Su đoan 5,Bien Hoa,20/11/1974,01/01/2025
+QN054,Le Van K,Thuong ta,Tieu đoan 5,Hue,10/12/1993,11/12/2019
+QN055,Vu Van B,Đai uy,Tieu đoan 4,Buon Ma Thuot,14/02/1975,25/09/2016
+QN056,Hoang Van C,Đai uy,Su đoan 5,TP HCM,28/01/1993,09/09/2015
+QN057,Vo Van K,Trung si,Su đoan 5,Buon Ma Thuot,08/10/1999,21/07/2017
+QN058,Vo Van F,Thuong uy,Trung đoan 1,Đa Nang,28/04/1992,04/07/2015
+QN059,Hoang Van F,Thieu ta,Su đoan 5,Nha Trang,23/11/1998,09/11/2022
+QN060,Le Van L,Thuong si,Trung đoan 1,Buon Ma Thuot,20/01/1986,10/06/2016
+QN061,Tran Van K,Trung uy,Tieu đoan 4,Vung Tau,17/11/1975,27/04/2022
+QN062,Hoang Van F,Đai uy,Trung đoan 2,Can Tho,04/07/1976,09/02/2021
+QN063,Phan Van D,Thuong uy,Tieu đoan 1,Bien Hoa,18/12/2003,26/07/2019
+QN064,Bui Van E,Đai uy,Lu đoan Cong binh,Hue,22/03/1983,27/12/2021
+QN065,Vo Van D,Binh nhat,Su đoan 9,TP HCM,01/03/1989,18/08/2024
+QN066,Tran Van A,Trung ta,Bo Tu lenh TPHCM,Đa Nang,22/03/1981,14/11/2020
+QN067,Tran Van K,Trung ta,Tieu đoan 1,TP HCM,22/07/1992,27/11/2020
+QN068,Le Van B,Thieu ta,Bo Tu lenh TPHCM,Đa Nang,21/04/1990,02/07/2017
+QN069,Vo Van L,Thuong uy,Tieu đoan 5,Buon Ma Thuot,13/01/1996,22/01/2017
+QN070,Phan Van G,Thieu ta,Tieu đoan 5,Bien Hoa,07/12/1993,06/05/2017
+QN071,Nguyen Van K,Trung ta,Lu đoan Phao binh,Nha Trang,18/05/1983,01/09/2024
+QN072,Tran Van D,Ha si,Tieu đoan 1,TP HCM,03/07/1987,10/06/2018
+QN073,Pham Van A,Đai uy,Tieu đoan 5,Vung Tau,16/12/1982,13/09/2022
+QN074,Vo Van K,Thuong uy,Lu đoan Cong binh,Can Tho,25/03/1996,12/09/2017
+QN075,Vu Van A,Ha si,Tieu đoan 3,Nha Trang,28/10/1988,12/05/2021
+QN076,Tran Van K,Thuong uy,Tieu đoan 1,Ha Noi,04/03/2002,06/02/2018
+QN077,Le Van C,Trung si,Trung đoan 2,Đa Nang,20/12/2001,26/04/2023
+QN078,Vu Van H,Thieu ta,Lu đoan Phao binh,Ha Noi,17/07/1984,14/04/2022
+QN079,Đang Van E,Binh nhi,Lu đoan Phao binh,Nha Trang,13/09/1980,08/01/2020
+QN080,Pham Van A,Thieu uy,Tieu đoan 1,Ha Noi,13/05/2002,17/12/2018
+QN081,Hoang Van F,Thuong ta,Trung đoan 2,Bien Hoa,03/06/1991,17/10/2021
+QN082,Le Van E,Thuong ta,Tieu đoan 1,Hue,02/10/1986,01/02/2019
+QN083,Hoang Van D,Binh nhi,Bo Tu lenh TPHCM,TP HCM,05/12/1998,06/08/2023
+QN084,Tran Van D,Thuong uy,Lu đoan Cong binh,Bien Hoa,30/08/1998,29/05/2024
+QN085,Nguyen Van D,Thuong ta,Su đoan 5,Buon Ma Thuot,06/03/1996,02/03/2024
+QN086,Pham Van H,Thieu uy,Bo Tu lenh TPHCM,Buon Ma Thuot,13/07/1984,24/12/2017
+QN087,Nguyen Van C,Thieu ta,Lu đoan Cong binh,Đa Nang,13/11/2002,15/12/2024
+QN088,Phan Van E,Binh nhi,Su đoan 5,TP HCM,08/01/2003,03/06/2017
+QN089,Đang Van L,Trung ta,Trung đoan 2,Đa Nang,08/07/1978,05/05/2018
+QN090,Vo Van E,Đai uy,Quan khu 7,Đa Nang,29/05/1989,19/07/2017
+QN091,Le Van F,Thuong ta,Su đoan 9,Ha Noi,13/03/2004,15/04/2025
+QN092,Nguyen Van L,Thuong si,Trung đoan 1,Nha Trang,27/12/1999,05/01/2022
+QN093,Vu Van L,Trung ta,Trung đoan 2,Vung Tau,26/07/1983,26/08/2021
+QN094,Nguyen Van C,Ha si,Trung đoan 1,Đa Nang,16/02/1984,15/07/2018
+QN095,Hoang Van G,Thuong ta,Tieu đoan 5,Hue,20/11/1978,15/02/2020
+QN096,Pham Van C,Trung ta,Quan khu 7,Can Tho,29/08/2000,10/03/2017
+QN097,Nguyen Van B,Ha si,Tieu đoan 5,Nha Trang,11/02/1986,01/08/2020
+QN098,Đang Van B,Thieu uy,Lu đoan Cong binh,Đa Nang,26/02/2005,22/02/2018
+QN099,Le Van L,Trung uy,Lu đoan Phao binh,Nha Trang,21/02/1983,17/03/2017
+QN100,Pham Van E,Trung si,Tieu đoan 2,Hue,04/01/1984,13/07/2018
+QN101,Phan Van D,Trung uy,Trung đoan 1,Hai Phong,09/04/1993,12/07/2020
+QN102,Pham Van A,Thuong uy,Tieu đoan 2,Bien Hoa,04/07/1991,14/11/2018
+QN103,Vu Van E,Thuong si,Su đoan 5,TP HCM,16/07/1993,23/03/2020
+QN104,Đang Van F,Thuong uy,Tieu đoan 1,Ha Noi,08/04/1981,10/08/2016
+QN105,Nguyen Van H,Thuong si,Lu đoan Cong binh,Bien Hoa,04/07/1989,17/08/2015
+QN106,Phan Van K,Trung si,Lu đoan Phao binh,Hai Phong,02/06/1994,05/07/2020
+QN107,Vu Van D,Thieu ta,Tieu đoan 4,Bien Hoa,10/02/1992,11/05/2018
+QN108,Hoang Van G,Thuong uy,Lu đoan Cong binh,Can Tho,03/06/1983,07/12/2017
+QN109,Pham Van B,Thieu ta,Tieu đoan 5,Hue,23/04/1989,19/08/2022
+QN110,Hoang Van F,Thuong si,Su đoan 9,Ha Noi,22/10/1991,25/05/2021
+QN111,Đang Van L,Đai ta,Trung đoan 2,Hue,23/10/1985,11/06/2015
+QN112,Vo Van K,Đai uy,Lu đoan Phao binh,Nha Trang,26/01/2001,04/01/2018
+QN113,Pham Van E,Đai uy,Lu đoan Cong binh,Ha Noi,18/12/1991,03/07/2020
+QN114,Nguyen Van A,Thuong ta,Tieu đoan 5,TP HCM,21/06/1982,21/05/2018
+QN115,Nguyen Van F,Thieu ta,Quan khu 7,Can Tho,31/10/1997,30/03/2023
+QN116,Bui Van A,Trung uy,Tieu đoan 1,Hue,23/05/2002,28/03/2023
+QN117,Nguyen Van G,Trung uy,Lu đoan Cong binh,Vung Tau,01/08/1992,10/07/2024
+QN118,Nguyen Van D,Trung si,Bo Tu lenh TPHCM,Hai Phong,25/03/1995,12/08/2023
+QN119,Hoang Van E,Ha si,Tieu đoan 1,Nha Trang,12/08/1992,23/10/2015
+QN120,Nguyen Van F,Binh nhi,Tieu đoan 4,Hue,29/09/1995,23/07/2015
+QN121,Pham Van A,Trung uy,Tieu đoan 4,Nha Trang,30/07/1990,04/12/2022
+QN122,Đang Van F,Thieu ta,Su đoan 5,Vung Tau,19/05/1981,22/03/2024
+QN123,Đang Van B,Thuong uy,Lu đoan Phao binh,Bien Hoa,26/08/1990,07/04/2024
+QN124,Bui Van B,Binh nhat,Su đoan 5,Can Tho,11/09/2000,17/07/2020
+QN125,Nguyen Van F,Đai uy,Tieu đoan 3,Hai Phong,06/07/1996,15/08/2024
+QN126,Vo Van E,Thuong uy,Quan khu 7,Vung Tau,17/12/1998,18/05/2016
+QN127,Le Van C,Trung ta,Quan khu 7,Nha Trang,19/04/1993,01/07/2017
+QN128,Le Van E,Binh nhat,Quan khu 7,TP HCM,08/07/1995,09/06/2017
+QN129,Le Van D,Đai ta,Trung đoan 2,Bien Hoa,20/09/2004,06/12/2024
+QN130,Hoang Van F,Thuong si,Tieu đoan 2,Đa Nang,13/08/2000,01/02/2023
+QN131,Vu Van D,Thieu uy,Tieu đoan 5,Ha Noi,09/02/1984,28/02/2020
+QN132,Pham Van C,Thuong si,Lu đoan Cong binh,Bien Hoa,30/05/1990,24/11/2018
+QN133,Tran Van B,Thuong si,Tieu đoan 1,Hai Phong,14/06/1988,11/11/2022
+QN134,Vo Van A,Trung ta,Trung đoan 1,Nha Trang,23/12/1979,26/12/2017
+QN135,Pham Van B,Trung ta,Tieu đoan 2,Hue,12/05/1998,19/09/2018
+QN136,Tran Van G,Đai uy,Tieu đoan 2,Bien Hoa,10/10/1999,31/05/2022
+QN137,Le Van C,Trung ta,Quan khu 7,Vung Tau,15/04/2004,09/10/2017
+QN138,Vu Van L,Đai uy,Tieu đoan 3,Đa Nang,18/06/1979,25/06/2023
+QN139,Hoang Van K,Trung uy,Trung đoan 1,Vung Tau,10/03/1986,24/01/2016
+QN140,Hoang Van F,Thuong ta,Lu đoan Phao binh,Vung Tau,10/03/1980,09/06/2021
+QN141,Vu Van C,Thieu ta,Lu đoan Cong binh,Hai Phong,13/06/1987,05/10/2018
+QN142,Bui Van F,Binh nhat,Tieu đoan 5,Hue,05/11/1979,23/12/2015
+QN143,Vo Van H,Thuong ta,Lu đoan Phao binh,Bien Hoa,28/06/1981,15/09/2024
+QN144,Phan Van C,Thuong ta,Lu đoan Phao binh,TP HCM,17/08/1998,09/07/2019
+QN145,Phan Van F,Binh nhat,Tieu đoan 5,Can Tho,05/07/2002,28/09/2022
+QN146,Vu Van B,Trung uy,Trung đoan 1,Hue,18/06/1999,15/05/2025
+QN147,Đang Van A,Binh nhat,Trung đoan 2,Buon Ma Thuot,01/08/1995,23/01/2023
+QN148,Đang Van D,Binh nhat,Lu đoan Phao binh,Hue,10/09/2003,07/04/2020
+QN149,Đang Van G,Thuong uy,Tieu đoan 5,Ha Noi,13/03/1976,29/07/2021
+QN150,Vu Van K,Ha si,Trung đoan 1,Ha Noi,21/03/1988,27/07/2020
+QN151,Tran Van F,Trung uy,Quan khu 7,Ha Noi,30/11/2002,28/09/2017
+QN152,Bui Van H,Trung uy,Tieu đoan 1,TP HCM,25/06/2002,26/01/2016
+QN153,Nguyen Van G,Thuong ta,Quan khu 7,Vung Tau,13/12/1997,18/04/2022
+QN154,Bui Van K,Ha si,Trung đoan 1,Nha Trang,07/03/1987,26/07/2020
+QN155,Hoang Van L,Thuong si,Bo Tu lenh TPHCM,Bien Hoa,19/10/1991,21/03/2025
+QN156,Nguyen Van E,Đai uy,Su đoan 5,Vung Tau,15/12/1977,17/02/2025
+QN157,Vu Van A,Thieu ta,Trung đoan 1,Bien Hoa,02/04/1980,07/03/2018
+QN158,Vo Van C,Đai uy,Tieu đoan 3,Buon Ma Thuot,07/07/1985,09/11/2022
+QN159,Tran Van B,Trung uy,Su đoan 5,Hue,27/08/2004,29/04/2024
+QN160,Nguyen Van F,Thieu uy,Lu đoan Cong binh,Hai Phong,28/03/1991,02/02/2018
+QN161,Pham Van B,Đai ta,Su đoan 9,TP HCM,11/01/2002,04/12/2020
+QN162,Le Van G,Đai uy,Tieu đoan 3,Vung Tau,31/07/1983,11/06/2020
+QN163,Hoang Van A,Binh nhi,Trung đoan 1,TP HCM,07/12/1991,06/06/2019
+QN164,Đang Van G,Thieu ta,Su đoan 9,Vung Tau,11/07/1987,04/04/2020
+QN165,Đang Van B,Thuong ta,Lu đoan Phao binh,Hai Phong,19/08/1993,30/07/2019
+QN166,Hoang Van H,Binh nhat,Su đoan 5,Bien Hoa,09/06/1996,06/06/2016
+QN167,Le Van K,Thuong ta,Su đoan 5,Nha Trang,03/09/1993,02/04/2018
+QN168,Le Van L,Trung uy,Quan khu 7,TP HCM,04/12/1998,02/04/2018
+QN169,Vu Van A,Ha si,Lu đoan Phao binh,Ha Noi,21/09/1975,14/12/2022
+QN170,Vo Van G,Thuong ta,Trung đoan 2,Ha Noi,05/04/1992,10/11/2020
+QN171,Vu Van C,Thuong ta,Tieu đoan 5,TP HCM,25/03/2005,30/03/2025
+QN172,Nguyen Van B,Ha si,Lu đoan Phao binh,TP HCM,28/09/1989,08/06/2022
+QN173,Tran Van L,Thuong si,Quan khu 7,Ha Noi,16/05/1990,20/06/2024
+QN174,Đang Van B,Thieu uy,Trung đoan 2,Đa Nang,14/06/1978,22/09/2017
+QN175,Pham Van C,Trung si,Tieu đoan 2,TP HCM,07/06/1976,30/03/2018
+QN176,Le Van D,Trung ta,Lu đoan Cong binh,Hai Phong,02/09/1977,13/11/2019
+QN177,Nguyen Van A,Thieu uy,Lu đoan Phao binh,Ha Noi,20/02/1986,21/03/2021
+QN178,Phan Van K,Thieu ta,Trung đoan 1,Hai Phong,23/01/1999,19/05/2015
+QN179,Vo Van F,Thuong si,Su đoan 5,Buon Ma Thuot,28/05/1982,19/09/2016
+QN180,Nguyen Van D,Trung si,Tieu đoan 4,Buon Ma Thuot,24/09/1988,10/02/2025
+QN181,Le Van E,Trung si,Su đoan 9,Ha Noi,08/10/1984,12/08/2016
+QN182,Bui Van H,Trung uy,Quan khu 7,Ha Noi,02/01/1976,27/11/2015
+QN183,Đang Van L,Binh nhat,Tieu đoan 1,TP HCM,05/11/1993,14/08/2020
+QN184,Tran Van C,Trung ta,Lu đoan Cong binh,Bien Hoa,26/12/1984,18/11/2016
+QN185,Vu Van H,Trung si,Tieu đoan 5,Buon Ma Thuot,12/11/1977,26/09/2020
+QN186,Le Van A,Ha si,Tieu đoan 2,Can Tho,26/09/2004,21/05/2019
+QN187,Đang Van B,Binh nhat,Su đoan 9,Bien Hoa,16/08/1987,18/12/2018
+QN188,Le Van G,Binh nhat,Tieu đoan 3,Vung Tau,05/04/1992,17/04/2022
+QN189,Vo Van C,Trung ta,Lu đoan Cong binh,Hai Phong,25/02/1992,18/09/2018
+QN190,Vu Van B,Thieu uy,Tieu đoan 3,Hue,09/04/1984,18/10/2019
+QN191,Vu Van D,Trung si,Tieu đoan 4,Vung Tau,05/07/1986,05/03/2023
+QN192,Le Van F,Thuong si,Tieu đoan 3,Hai Phong,27/06/1981,07/03/2021
+QN193,Pham Van A,Thieu ta,Lu đoan Cong binh,Vung Tau,15/01/1991,13/07/2024
+QN194,Vo Van B,Đai ta,Su đoan 5,Buon Ma Thuot,02/04/1994,13/05/2019
+QN195,Pham Van K,Đai ta,Tieu đoan 3,TP HCM,19/09/1979,21/01/2025
+QN196,Phan Van D,Đai uy,Tieu đoan 3,Đa Nang,30/05/1994,07/06/2021
+QN197,Vo Van C,Đai uy,Trung đoan 1,Hue,06/10/1985,05/07/2018
+QN198,Tran Van K,Thieu ta,Tieu đoan 4,Vung Tau,09/12/1994,25/05/2018
+QN199,Bui Van B,Thuong ta,Trung đoan 1,Buon Ma Thuot,10/07/1988,10/01/2022
+QN200,Nguyen Van F,Thuong uy,Bo Tu lenh TPHCM,Hue,21/01/1982,07/07/2019
+QN201,Vu Van B,Trung si,Trung đoan 2,Hue,28/11/1979,01/09/2022
+QN202,Tran Van L,Thuong si,Lu đoan Phao binh,Đa Nang,30/09/1989,09/01/2023
+QN203,Nguyen Van E,Binh nhi,Bo Tu lenh TPHCM,Hue,14/10/2003,13/09/2016
+QN204,Tran Van K,Ha si,Lu đoan Cong binh,Buon Ma Thuot,17/06/2001,25/06/2017
+QN205,Pham Van B,Thuong si,Lu đoan Phao binh,Can Tho,21/11/1980,28/06/2015
+QN206,Nguyen Van L,Thieu uy,Tieu đoan 4,Bien Hoa,17/11/1987,19/10/2019
+QN207,Đang Van F,Thuong uy,Lu đoan Cong binh,Vung Tau,19/11/1978,28/05/2019
+QN208,Le Van H,Trung ta,Su đoan 5,Vung Tau,02/01/1990,23/11/2021
+QN209,Le Van D,Thuong ta,Lu đoan Cong binh,Hai Phong,13/05/1980,01/12/2020
+QN210,Pham Van D,Binh nhi,Trung đoan 2,Vung Tau,18/02/1986,06/07/2024
+QN211,Hoang Van E,Thieu ta,Tieu đoan 1,Vung Tau,28/09/1984,08/11/2015
+QN212,Tran Van G,Ha si,Tieu đoan 5,Đa Nang,01/03/1994,04/12/2021
+QN213,Nguyen Van F,Ha si,Trung đoan 1,TP HCM,22/01/1975,30/07/2016
+QN214,Phan Van K,Binh nhi,Su đoan 9,TP HCM,04/05/1985,30/12/2015
+QN215,Phan Van K,Thieu ta,Su đoan 5,Vung Tau,12/09/1990,20/12/2020
+QN216,Phan Van D,Binh nhat,Tieu đoan 4,Bien Hoa,23/01/1997,13/04/2016
+QN217,Phan Van K,Binh nhi,Su đoan 9,Bien Hoa,30/04/1980,02/03/2019
+QN218,Đang Van F,Thieu ta,Tieu đoan 3,Đa Nang,08/01/1976,22/10/2023
+QN219,Bui Van D,Thieu ta,Tieu đoan 3,Nha Trang,09/11/1991,24/07/2018
+QN220,Le Van E,Trung ta,Trung đoan 1,Bien Hoa,05/02/1986,15/02/2016
+QN221,Pham Van E,Thieu uy,Lu đoan Cong binh,Can Tho,09/04/1999,23/03/2016
+QN222,Nguyen Van H,Ha si,Trung đoan 2,Ha Noi,13/04/1978,20/01/2019
+QN223,Bui Van F,Thieu uy,Quan khu 7,Đa Nang,31/08/1975,07/01/2020
+QN224,Bui Van G,Đai ta,Trung đoan 2,Ha Noi,04/06/1999,06/04/2016
+QN225,Pham Van K,Trung si,Trung đoan 1,TP HCM,06/01/1991,21/09/2022
+QN226,Đang Van F,Thuong ta,Lu đoan Cong binh,Hue,28/11/1977,06/08/2023
+QN227,Bui Van B,Binh nhat,Tieu đoan 1,Vung Tau,27/06/1977,03/06/2022
+QN228,Le Van D,Binh nhi,Tieu đoan 1,Bien Hoa,02/09/1996,04/09/2020
+QN229,Tran Van D,Binh nhat,Tieu đoan 1,Vung Tau,13/11/2001,09/10/2015
+QN230,Đang Van G,Đai uy,Tieu đoan 3,Ha Noi,25/01/1996,27/10/2018
+QN231,Le Van A,Binh nhi,Trung đoan 1,Can Tho,03/01/1993,15/09/2019
+QN232,Phan Van C,Đai ta,Tieu đoan 5,TP HCM,16/04/1975,02/03/2023
+QN233,Pham Van E,Đai uy,Trung đoan 1,Buon Ma Thuot,12/11/1999,30/09/2020
+QN234,Le Van E,Binh nhat,Tieu đoan 1,Hai Phong,22/08/1998,02/03/2017
+QN235,Tran Van F,Trung ta,Tieu đoan 5,Can Tho,16/02/1977,16/08/2020
+QN236,Phan Van E,Trung uy,Lu đoan Cong binh,Ha Noi,09/04/1988,16/10/2023
+QN237,Phan Van L,Đai ta,Bo Tu lenh TPHCM,Vung Tau,17/08/2000,14/11/2015
+QN238,Nguyen Van C,Đai ta,Bo Tu lenh TPHCM,Can Tho,21/06/1975,27/06/2024
+QN239,Hoang Van H,Trung uy,Tieu đoan 2,Hai Phong,01/04/1991,08/09/2016
+QN240,Phan Van D,Thieu ta,Trung đoan 1,Ha Noi,20/10/1999,07/12/2023
+QN241,Tran Van H,Trung si,Tieu đoan 4,Hai Phong,07/06/2004,05/07/2017
+QN242,Pham Van D,Thieu uy,Lu đoan Phao binh,Buon Ma Thuot,20/01/1988,22/03/2021
+QN243,Vu Van G,Binh nhi,Tieu đoan 1,Bien Hoa,26/10/1991,07/11/2020
+QN244,Hoang Van F,Thieu ta,Tieu đoan 3,Ha Noi,11/02/2002,10/08/2023
+QN245,Pham Van D,Trung ta,Lu đoan Phao binh,Buon Ma Thuot,19/04/1995,07/02/2016
+QN246,Le Van B,Đai ta,Lu đoan Phao binh,Buon Ma Thuot,16/10/1994,09/08/2017
+QN247,Bui Van G,Thuong uy,Tieu đoan 3,Can Tho,12/02/1993,13/12/2020
+QN248,Đang Van A,Ha si,Su đoan 9,Nha Trang,23/12/2000,18/07/2015
+QN249,Vu Van L,Ha si,Lu đoan Cong binh,Đa Nang,29/12/1988,29/05/2021
+QN250,Nguyen Van E,Thuong uy,Bo Tu lenh TPHCM,Nha Trang,27/06/1999,24/03/2022
+QN251,Vu Van K,Đai ta,Bo Tu lenh TPHCM,Đa Nang,04/07/2003,24/01/2020
+QN252,Vu Van H,Đai uy,Bo Tu lenh TPHCM,Buon Ma Thuot,23/04/1984,25/09/2017
+QN253,Nguyen Van L,Trung ta,Bo Tu lenh TPHCM,Can Tho,22/08/1981,25/12/2015
+QN254,Bui Van G,Thuong ta,Tieu đoan 4,Can Tho,15/04/1983,03/07/2015
+QN255,Vu Van C,Thuong uy,Tieu đoan 3,Đa Nang,22/02/1979,24/06/2023
+QN256,Phan Van L,Ha si,Bo Tu lenh TPHCM,Đa Nang,08/12/1975,21/11/2021
+QN257,Đang Van F,Thuong ta,Tieu đoan 4,Bien Hoa,04/11/1992,17/04/2023
+QN258,Vo Van F,Trung si,Lu đoan Phao binh,Nha Trang,27/11/1993,22/07/2024
+QN259,Tran Van G,Binh nhat,Trung đoan 1,Buon Ma Thuot,23/11/1980,13/11/2023
+QN260,Đang Van L,Thuong si,Bo Tu lenh TPHCM,Hai Phong,07/04/1986,08/12/2021
+QN261,Tran Van G,Trung uy,Trung đoan 2,Can Tho,05/03/2000,29/07/2015
+QN262,Phan Van L,Trung ta,Trung đoan 2,Ha Noi,12/01/2002,07/03/2019
+QN263,Tran Van F,Trung uy,Tieu đoan 2,Ha Noi,17/12/2002,27/05/2018
+QN264,Pham Van B,Ha si,Tieu đoan 5,Hai Phong,11/12/1988,29/07/2015
+QN265,Hoang Van D,Binh nhi,Quan khu 7,Buon Ma Thuot,06/09/1988,25/04/2020
+QN266,Vu Van A,Trung si,Bo Tu lenh TPHCM,Can Tho,12/03/1989,16/02/2019
+QN267,Le Van E,Trung uy,Bo Tu lenh TPHCM,Đa Nang,13/07/1998,14/03/2017
+QN268,Vo Van L,Thieu ta,Tieu đoan 1,Bien Hoa,12/03/1999,02/09/2016
+QN269,Nguyen Van L,Đai uy,Tieu đoan 3,Hue,01/05/2002,12/04/2019
+QN270,Le Van K,Trung ta,Quan khu 7,Bien Hoa,10/03/1981,17/03/2016
+QN271,Vu Van C,Binh nhat,Bo Tu lenh TPHCM,Nha Trang,19/08/1978,06/10/2024
+QN272,Hoang Van B,Thieu ta,Trung đoan 2,Nha Trang,10/12/1993,26/03/2021
+QN273,Vu Van C,Ha si,Lu đoan Cong binh,Đa Nang,08/01/1977,26/11/2019
+QN274,Bui Van G,Trung si,Tieu đoan 4,Nha Trang,09/01/1994,05/06/2017
+QN275,Hoang Van A,Binh nhat,Lu đoan Cong binh,Buon Ma Thuot,21/09/1989,11/04/2020
+QN276,Bui Van D,Đai ta,Trung đoan 2,Hue,11/07/1983,25/07/2024
+QN277,Phan Van L,Đai ta,Su đoan 9,Vung Tau,09/02/1979,22/01/2023
+QN278,Phan Van D,Thieu uy,Tieu đoan 2,Bien Hoa,03/03/1994,24/05/2019
+QN279,Nguyen Van G,Thuong uy,Su đoan 5,Vung Tau,04/10/1977,22/01/2016
+QN280,Đang Van B,Thieu ta,Tieu đoan 2,TP HCM,02/10/1990,10/07/2019
+QN281,Tran Van B,Đai uy,Tieu đoan 2,Hai Phong,21/12/1978,18/10/2020
+QN282,Vu Van L,Thuong ta,Bo Tu lenh TPHCM,Can Tho,05/04/1994,18/08/2022
+QN283,Vu Van H,Đai ta,Tieu đoan 4,TP HCM,19/05/1994,17/05/2024
+QN284,Le Van A,Trung uy,Trung đoan 2,Buon Ma Thuot,17/05/1985,04/08/2016
+QN285,Le Van C,Thuong uy,Bo Tu lenh TPHCM,Vung Tau,28/12/1977,18/07/2018
+QN286,Vo Van G,Ha si,Tieu đoan 5,TP HCM,03/09/1987,25/11/2024
+QN287,Vu Van E,Binh nhat,Tieu đoan 2,Vung Tau,20/02/1989,02/08/2016
+QN288,Nguyen Van B,Ha si,Lu đoan Phao binh,Đa Nang,01/11/1994,11/12/2020
+QN289,Phan Van F,Thuong ta,Bo Tu lenh TPHCM,Đa Nang,04/02/1997,11/04/2016
+QN290,Tran Van C,Thuong ta,Tieu đoan 3,TP HCM,10/11/1978,09/08/2019
+QN291,Tran Van G,Ha si,Trung đoan 1,TP HCM,22/04/1979,29/05/2018
+QN292,Đang Van G,Trung si,Tieu đoan 2,Bien Hoa,10/11/1974,12/05/2023
+QN293,Hoang Van H,Đai uy,Lu đoan Cong binh,Can Tho,21/03/1991,02/11/2016
+QN294,Hoang Van H,Đai uy,Tieu đoan 2,TP HCM,12/01/2004,30/06/2024
+QN295,Vu Van D,Thuong si,Tieu đoan 5,Buon Ma Thuot,23/03/1995,25/10/2015
+QN296,Đang Van F,Ha si,Trung đoan 1,Nha Trang,26/12/1988,14/12/2020
+QN297,Vu Van H,Thieu ta,Lu đoan Cong binh,Vung Tau,16/07/1981,12/04/2021
+QN298,Tran Van F,Đai ta,Tieu đoan 1,Vung Tau,25/01/1985,22/09/2016
+QN299,Nguyen Van D,Binh nhi,Bo Tu lenh TPHCM,Ha Noi,13/08/2002,23/11/2018
+QN300,Phan Van K,Binh nhat,Tieu đoan 3,Bien Hoa,19/10/1977,10/02/2025
