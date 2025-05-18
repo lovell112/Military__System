@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 #include <string>
 #include <vector>
@@ -188,3 +189,5 @@ int main() {
     DSQN.ghiFile("output.txt");*/
     return 0;
 }
+=======
+>>>>>>> 017bbee618118199206ede047954f27a824abe65
