@@ -6,41 +6,41 @@
 #include <sstream>
 using namespace std;
 
+// ===== ENUM CẤP BẬC =====
+enum CapBac {
+    BINH_NHI, BINH_NHAT, HA_SI, TRUNG_SI, THUONG_SI,
+    THIEU_UY, TRUNG_UY, THUONG_UY, DAI_UY,
+    THIEU_TA, TRUNG_TA, THUONG_TA, DAI_TA,
+    KHAC
+};
+
+
 class QuanNhan {
-    string maSo, hoTen, capBac, donVi, queQuan, ngaySinh, ngayNhapNgu;
+protected:
+    string maSo, hoTen, donVi, queQuan, ngaySinh, ngayNhapNgu;
+    CapBac capBac;
     vector<string> DSNhiemVu;
+    int Luong;
 public:
 
-    // default constructor
     QuanNhan();
 
-    // constructor
     QuanNhan(string ms, string ht, string cb, string dv, string qq, string ns, string nnn);
  
-    // copy constructor
     QuanNhan(const QuanNhan& qn);
 
-    // destructor
-    ~QuanNhan();
+    virtual ~QuanNhan();
 
-    // virtual method display infomation of person
-    virtual void hienThiThongTin() const;
-
-    // get ID of person
+//     Get
     string getMaSo() const;
-    // get full name of person
     string getHoTen() const;
-    // get rank of person
-    string getCapBac() const;
-    // get unit of person
     string getDonVi() const;
-    // get hometown of person
     string getQueQuan() const;
-    // get birthday of person
     string getNgaySinh() const;
-    // get enlistment day of person
     string getNgayNhapNgu() const;
-    // get 
+	CapBac getCapBac() const;
+    int getLuong();
+//    Set
     vector<string> getDSNhiemVu() const;
     void setMaSo(string ms);
     void setHoTen(string ht);
@@ -49,9 +49,17 @@ public:
     void setQueQuan(string qq);
     void setNgaySinh(string ns);
     void setNgayNhapNgu(string nnn);
-    void setNhiemVu(string NV);
-    int maHoaCapBac();
+    void setLuong(int luong);
 
+//    Hàm mặc định
+    void taoLuong();
+    void themNhiemVu(string NV);
+    void xoaNhiemVu(string NV);
+
+//     Hàm ảo
+    virtual void thangCap();
+    virtual bool baoCaoNV(string NV);
+    virtual void hienThiThongTin() const;
     friend istream& operator>>(istream&, QuanNhan&);
-    friend ostream& operator<<(ostream&, QuanNhan&);
+    friend ostream& operator<<(ostream&, const QuanNhan&);
 };
