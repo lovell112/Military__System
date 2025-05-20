@@ -63,3 +63,38 @@ void QuanLiQuanDoi::capNhatDuLieu() {
         flag = true;
     }
 }
+
+int QuanLiQuanDoi::timKiem(string _maSo) {
+    for (int i = 0; i < danhSach.size(); i++)
+        if (danhSach[i]->getMaSo()==_maSo)
+            return i;
+    return -1;
+}
+
+void QuanLiQuanDoi::them(string _maSo, string _hoTen, string _capBac, string _donVi, string _queQuan, string _ngaySinh, string _ngayNhapNgu, string _trachNhiem) {
+    QuanNhan* temp = nullptr;
+    if (_maSo[0]=='B')
+        temp = new BinhSi(_maSo, _hoTen, _capBac, _donVi, _queQuan, _ngaySinh, _ngayNhapNgu, _trachNhiem);
+    else if (_maSo[0]=='S')
+        temp = new SiQuan(_maSo, _hoTen, _capBac, _donVi, _queQuan, _ngaySinh, _ngayNhapNgu, _trachNhiem);
+    else {
+        cout << "Ma so Quan Nhan khong dung dinh dang!";
+        return;
+    }
+    danhSach.push_back(temp);
+    capNhatDuLieu();
+}
+
+void QuanLiQuanDoi::xoa(string _maSo) {
+    int pos = timKiem(_maSo);
+    if (pos==-1) {
+        cout << "Khong ton tai quan nhan nay";
+        return;
+    }
+    delete danhSach[pos];
+    for (int i = pos; i < danhSach.size() - 1; i++)
+        danhSach[i] = danhSach[i+1];
+    danhSach[danhSach.size()-1] = nullptr;
+    danhSach.resize(danhSach.size()-1);
+    capNhatDuLieu();
+}

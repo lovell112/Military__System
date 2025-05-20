@@ -1,12 +1,12 @@
 #include "SiQuan.h"
 
-SiQuan::SiQuan(): QuanNhan(), chucVu(""), luong(0) {}
+SiQuan::SiQuan(): QuanNhan(), chucVu(""), luong(0) {soLuong++;}
 SiQuan::SiQuan(string ms, string ht, string cb, string dv, string qq, string ns, string nnn, string cv )
     : QuanNhan(ms, ht, cb, dv, qq, ns, nnn), chucVu(cv)  {
         soLuong++;
         updateLuong();
     }
-SiQuan::SiQuan(const SiQuan& q): QuanNhan(q), chucVu(q.chucVu), luong(q.luong) {}
+SiQuan::SiQuan(const SiQuan& q): QuanNhan(q), chucVu(q.chucVu), luong(q.luong) {soLuong++;}
 
 SiQuan::~SiQuan() {soLuong--;}
 int SiQuan::soLuong = 0;
@@ -17,6 +17,7 @@ string SiQuan::getLoai() {
 
 void SiQuan::updateChucVu(string cv) {
     chucVu = cv;
+    updateLuong();
 }
 
 void SiQuan::updateLuong() {

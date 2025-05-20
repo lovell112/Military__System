@@ -15,11 +15,12 @@ class QuanLiQuanDoi {
     void capNhatDuLieu();
 
     // add a new solider
-    void them();
+    void them(string, string, string, string, string, string, string, string);
 
     // delete a solider
     void xoa(string);
 
+    int timKiem(string);
     // return number of rank
     int thongKeCapBac(string);
 
