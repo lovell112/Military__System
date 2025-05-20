@@ -2,9 +2,9 @@
 #include "BinhSi.h"
 
 class QuanLiQuanDoi {
-    vector<QuanNhan*> danhSach;
     long long nganSachToiThieu;
-public:
+    public:
+    vector<QuanNhan*> danhSach;
     QuanLiQuanDoi();
     ~QuanLiQuanDoi();
 
