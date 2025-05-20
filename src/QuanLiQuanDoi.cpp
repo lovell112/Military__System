@@ -104,7 +104,7 @@ void QuanLiQuanDoi::xoa(string _maSo) {
 }
 
 //nhập vào mã số muốn sửa, nếu tồn tại thì cho phép sửa thông tin một quân nhân, chỉ sửa nếu tìm thấy, còn không thì in ra báo lỗi
-void QuanLiQuanDoi :: sua(string _maso){
+void QuanLiQuanDoi::sua(string _maso){
     int pos = timKiem(_maso);
     if (pos == -1) {
         cout << "Khong ton tai quan nhan nay!" << endl;
@@ -153,7 +153,7 @@ void QuanLiQuanDoi :: sua(string _maso){
 }
 
 //Thống kê các cấp bậc có trong danh sách
-int QuanLiQuanDoi :: thongKeCapBac(string _capBac) {
+int QuanLiQuanDoi::thongKeCapBac(string _capBac) {
     int dem = 0;
     for (int i = 0; i < danhSach.size(); i++) {
         if (danhSach[i]->getCapBac() == _capBac)
@@ -163,7 +163,7 @@ int QuanLiQuanDoi :: thongKeCapBac(string _capBac) {
 }
 
 //Thống kê số lượng sĩ quan có trong danh sách
-int QuanLiQuanDoi :: thongKeSiQuan(){
+int QuanLiQuanDoi::thongKeSiQuan(){
     int dem = 0;
     for (int i = 0; i < danhSach.size(); i++) {
         if (danhSach[i]->getLoai() == "Si Quan")
@@ -173,7 +173,7 @@ int QuanLiQuanDoi :: thongKeSiQuan(){
 }
 
 //Thống kê số lượng binh sĩ có trong danh sách
-int QuanLiQuanDoi :: thongKeBinhSi(){
+int QuanLiQuanDoi::thongKeBinhSi(){
     int dem = 0;
     for (int i = 0; i < danhSach.size(); i++) {
         if (danhSach[i]->getLoai() == "Binh Si")
@@ -183,7 +183,7 @@ int QuanLiQuanDoi :: thongKeBinhSi(){
 }
 
 //Thống kê lương được nhận rồi trả về ngân sách tối thiểu cần có trong 1 năm
-long long QuanLiQuanDoi :: NganSachToiThieu(){
+long long QuanLiQuanDoi::NganSachToiThieu(){
     long long tongLuong = 0;
     for (int i = 0; i < danhSach.size(); i++) {
         if (danhSach[i]->getLoai() == "Si Quan") {
