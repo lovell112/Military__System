@@ -1,4 +1,4 @@
-#pragma one
+#pragma once
 #include <iostream>
 #include <string>
 #include <vector>
@@ -21,7 +21,7 @@ public:
     QuanNhan(const QuanNhan& qn);
 
     // destructor
-    ~QuanNhan();
+    virtual ~QuanNhan();
 
     // virtual method display infomation of person
     virtual void hienThiThongTin() const;
@@ -40,6 +40,7 @@ public:
     string getNgaySinh() const;
     // get enlistment day of person
     string getNgayNhapNgu() const;
+    virtual string getTrachNhiem() = 0;
     // get 
     vector<string> getDSNhiemVu() const;
     void setMaSo(string ms);
@@ -51,6 +52,8 @@ public:
     void setNgayNhapNgu(string nnn);
     void setNhiemVu(string NV);
     int maHoaCapBac();
+
+    virtual string getLoai() = 0;
 
     friend istream& operator>>(istream&, QuanNhan&);
     friend ostream& operator<<(ostream&, QuanNhan&);

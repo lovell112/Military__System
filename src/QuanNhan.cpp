@@ -5,14 +5,16 @@ QuanNhan::QuanNhan() {
     hoTen = "";
     capBac = "";
     donVi = "";
+    queQuan = "";
     ngaySinh = "";
     ngayNhapNgu = "";
 }
 
 QuanNhan::QuanNhan(string ms, string ht, string cb, string dv, string qq, string ns, string nnn)
-        : hoTen(ht), capBac(cb), donVi(dv), queQuan(qq), maSo(ms), ngaySinh(ns), ngayNhapNgu(nnn) {}
+    : hoTen(ht), capBac(cb), donVi(dv), queQuan(qq), maSo(ms), ngaySinh(ns), ngayNhapNgu(nnn) {}
 
-QuanNhan::QuanNhan(const QuanNhan& qn) {}
+QuanNhan::QuanNhan(const QuanNhan& qn) 
+    : maSo(qn.getMaSo()), hoTen(qn.getHoTen()), capBac(qn.getCapBac()), donVi(qn.getDonVi()), queQuan(qn.getQueQuan()), ngaySinh(qn.getNgaySinh()), ngayNhapNgu(qn.getNgayNhapNgu()) {}
 
 QuanNhan::~QuanNhan() {}
 
@@ -30,6 +32,7 @@ string QuanNhan::getDonVi() const { return donVi; }
 string QuanNhan::getQueQuan() const { return queQuan; }
 string QuanNhan::getNgaySinh() const { return ngaySinh; }
 string QuanNhan::getNgayNhapNgu() const { return ngayNhapNgu; }
+// string QuanNhan::getLoai() {}
 vector<string> QuanNhan::getDSNhiemVu() const { return DSNhiemVu; }
 
 void QuanNhan::setMaSo(string ms) { maSo = ms; }
