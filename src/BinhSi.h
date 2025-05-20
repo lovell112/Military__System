@@ -17,7 +17,7 @@ class BinhSi: public QuanNhan {
     void hienThiThongTin() const;
     bool baoCaoNV();
     long long troCapXuatNgu();
-    string getLoai();
+    string getLoai() override;
     string getTrachNhiem() override;
 
     friend istream& operator>>(istream&, BinhSi&);

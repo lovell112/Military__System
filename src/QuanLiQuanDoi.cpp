@@ -43,7 +43,7 @@ QuanLiQuanDoi::~QuanLiQuanDoi() {
 }
 
 void QuanLiQuanDoi::capNhatDuLieu() {
-    ofstream outFile("../data/out.txt");
+    ofstream outFile("../data/solider__list.txt");
     bool flag = false;
     for (int i = 0; i < danhSach.size(); i++) {
         if (flag)
@@ -53,6 +53,7 @@ void QuanLiQuanDoi::capNhatDuLieu() {
         line += danhSach[i]->getHoTen() + ",";
         line += danhSach[i]->getCapBac() + ",";
         line += danhSach[i]->getDonVi() + ",";
+        line += danhSach[i]->getQueQuan() + ",";
         line += danhSach[i]->getNgaySinh() + ",";
         line += danhSach[i]->getNgayNhapNgu() + ",";
         line += danhSach[i]->getTrachNhiem() + ",";

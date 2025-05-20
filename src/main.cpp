@@ -2,7 +2,7 @@
 
 int main() {
     QuanLiQuanDoi man;
-    // man.danhSach[0]->hienThiThongTin();;
+    man.danhSach[0]->hienThiThongTin();
     man.capNhatDuLieu();
     return 0;
 }

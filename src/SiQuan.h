@@ -17,7 +17,7 @@ public:
     string getTrachNhiem() override;
     void updateChucVu(string);
     void updateLuong();
-    string getLoai();
+    string getLoai() override;
 
     friend istream& operator>>(istream&, SiQuan&);
     friend ostream& operator<<(ostream&, SiQuan);
