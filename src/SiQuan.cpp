@@ -21,12 +21,19 @@ void SiQuan::updateChucVu(string cv) {
 }
 
 void SiQuan::updateLuong() {
-    if (chucVu == "Si quan") luong = 1000000;
-    else if (chucVu == "Trung si") luong = 2000000;
-    else if (chucVu == "Dai si") luong = 3000000;
-    else if (chucVu == "Thieu ta") luong = 4000000;
-    else if (chucVu == "Trung ta") luong = 5000000;
-    else if (chucVu == "Dai ta") luong = 6000000;
+    if (chucVu == "Dai tuong") luong = 24336000;
+    else if (chucVu == "Thuong tuong") luong = 22932000;
+    else if (chucVu == "Trung tuong") luong = 21528000;
+    else if (chucVu == "Thieu tuong") luong = 20124000;
+    else if (chucVu == "Dai ta") luong = 18720000;
+    else if (chucVu == "Thuong ta") luong = 17082000;
+    else if (chucVu == "Trung ta") luong = 15444000;
+    else if (chucVu == "Thieu ta") luong = 14040000;
+    else if (chucVu == "Dai uy") luong = 12636000;
+    else if (chucVu == "Thuong uy") luong = 11700000;
+    else if (chucVu == "Trung uy") luong = 10764000;
+    else if (chucVu == "Thieu uy") luong = 9828000;
+    else luong = 0; // Trường hợp không khớp cấp bậc
 }
 
 void SiQuan::hienThiThongTin() const {

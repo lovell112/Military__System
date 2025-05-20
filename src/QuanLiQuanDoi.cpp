@@ -102,3 +102,113 @@ void QuanLiQuanDoi::xoa(string _maSo) {
     danhSach.resize(danhSach.size()-1);
     capNhatDuLieu();
 }
+
+//nhập vào mã số muốn sửa, nếu tồn tại thì cho phép sửa thông tin một quân nhân, chỉ sửa nếu tìm thấy, còn không thì in ra báo lỗi
+void QuanLiQuanDoi :: sua(string _maso){
+    int pos = timKiem(_maso);
+    if (pos == -1) {
+        cout << "Khong ton tai quan nhan nay!" << endl;
+        return;
+    }
+
+    string hoTenMoi, capBacMoi, donViMoi, queQuanMoi, ngaySinhMoi, ngayNhapNguMoi, trachNhiemMoi;
+
+    cout << "Nhap ho ten moi: ";
+    getline(cin >> ws, hoTenMoi);
+
+    cout << "Nhap cap bac moi: ";
+    getline(cin >> ws, capBacMoi);
+
+    cout << "Nhap don vi moi: ";
+    getline(cin >> ws, donViMoi);
+
+    cout << "Nhap que quan moi: ";
+    getline(cin >> ws, queQuanMoi);
+
+    cout << "Nhap ngay sinh moi: ";
+    getline(cin >> ws, ngaySinhMoi);
+
+    cout << "Nhap ngay nhap ngu moi: ";
+    getline(cin >> ws, ngayNhapNguMoi);
+
+    cout << "Nhap trach nhiem moi (chuc vu hoac nhiem vu): ";
+    getline(cin >> ws, trachNhiemMoi);
+
+    // Tạo lại đối tượng với dữ liệu mới, giữ nguyên mã số & loại (S hoặc B)
+    QuanNhan* old = danhSach[pos];
+    string loai = old->getLoai();
+
+    QuanNhan* moi = nullptr;
+    if (loai == "Binh Si") {
+        moi = new BinhSi(_maso, hoTenMoi, capBacMoi, donViMoi, queQuanMoi, ngaySinhMoi, ngayNhapNguMoi, trachNhiemMoi);
+    } else if (loai == "Si Quan") {
+        moi = new SiQuan(_maso, hoTenMoi, capBacMoi, donViMoi, queQuanMoi, ngaySinhMoi, ngayNhapNguMoi, trachNhiemMoi);
+    }
+
+    // Giải phóng bộ nhớ cũ và gán lại
+    delete danhSach[pos];
+    danhSach[pos] = moi;
+
+    capNhatDuLieu();
+}
+
+//Thống kê các cấp bậc có trong danh sách
+int QuanLiQuanDoi :: thongKeCapBac(string _capBac) {
+    int dem = 0;
+    for (int i = 0; i < danhSach.size(); i++) {
+        if (danhSach[i]->getCapBac() == _capBac)
+            dem++;
+    }
+    return dem;
+}
+
+//Thống kê số lượng sĩ quan có trong danh sách
+int QuanLiQuanDoi :: thongKeSiQuan(){
+    int dem = 0;
+    for (int i = 0; i < danhSach.size(); i++) {
+        if (danhSach[i]->getLoai() == "Si Quan")
+            dem++;
+    }
+    return dem;
+}
+
+//Thống kê số lượng binh sĩ có trong danh sách
+int QuanLiQuanDoi :: thongKeBinhSi(){
+    int dem = 0;
+    for (int i = 0; i < danhSach.size(); i++) {
+        if (danhSach[i]->getLoai() == "Binh Si")
+            dem++;
+    }
+    return dem;
+}
+
+//Thống kê lương được nhận rồi trả về ngân sách tối thiểu cần có trong 1 năm
+long long QuanLiQuanDoi :: NganSachToiThieu(){
+    long long tongLuong = 0;
+    for (int i = 0; i < danhSach.size(); i++) {
+        if (danhSach[i]->getLoai() == "Si Quan") {
+            
+            string chucVu = danhSach[i]->getTrachNhiem();
+            long long luong = 0;
+
+            if (chucVu == "Dai tuong") luong = 24336000;
+            else if (chucVu == "Thuong tuong") luong = 22932000;
+            else if (chucVu == "Trung tuong") luong = 21528000;
+            else if (chucVu == "Thieu tuong") luong = 20124000;
+            else if (chucVu == "Dai ta") luong = 18720000;
+            else if (chucVu == "Thuong ta") luong = 17082000;
+            else if (chucVu == "Trung ta") luong = 15444000;
+            else if (chucVu == "Thieu ta") luong = 14040000;
+            else if (chucVu == "Dai uy") luong = 12636000;
+            else if (chucVu == "Thuong uy") luong = 11700000;
+            else if (chucVu == "Trung uy") luong = 10764000;
+            else if (chucVu == "Thieu uy") luong = 9828000;
+            else luong = 0;
+
+            tongLuong += luong * 12; // lương theo năm của từng sĩ quan
+        } else if (danhSach[i]->getLoai() == "Binh Si") {
+            tongLuong += 9000000; // Binh sĩ: mặc định 9 triệu/năm
+        }
+    }
+    return tongLuong;
+}

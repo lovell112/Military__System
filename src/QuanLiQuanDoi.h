@@ -20,6 +20,9 @@ class QuanLiQuanDoi {
     // delete a solider
     void xoa(string);
 
+    //edit a solider
+    void sua(string);
+
     int timKiem(string);
     // return number of rank
     int thongKeCapBac(string);
@@ -31,5 +34,5 @@ class QuanLiQuanDoi {
     int thongKeBinhSi();
 
     // return budget
-    long long getNganSach();
+    long long NganSachToiThieu();
 };
