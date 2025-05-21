@@ -1,18 +1,23 @@
 #include "SiQuan.h"
+#include <sstream>
 
-SiQuan::SiQuan(): QuanNhan(), donViQuanLy(NULL) {}
-SiQuan::SiQuan(string ms, string ht, string cb, string dv, string qq, string ns, string nnn,DSQN dvql)
-    : QuanNhan(ms,ht,cb,dv,qq,ns,nnn), donViQuanLy(dvql) {}
-SiQuan::SiQuan(const SiQuan& q): SiQuan(q.maSo, q.hoTen, q.capBac, q.donVi, q.queQuan, q.ngaySinh, q.ngayNhapNgu, q.donViQuanLy) {}
+SiQuan::SiQuan(): QuanNhan("", "", "", "", "", "", "") {
+}
+SiQuan::SiQuan(string ms, string ht, string cb, string dv, string qq, string ns, string nnn, QuanLiQuanDoi dvql)
+    : QuanNhan(ms,ht,cb,dv,qq,ns,nnn), donViQuanLy(dvql) {
+    }
+SiQuan::SiQuan(const SiQuan& q): QuanNhan(q) {
+    donViQuanLy = q.donViQuanLy;
+}
 
 SiQuan::~SiQuan() {}
 
 void SiQuan::getDonViQuanLy() {
-    if (donViQuanLy != NULL) {
+    if (donViQuanLy.getDanhSach().empty()) {
         cout << "Si Quan khong quan ly don vi nao" << endl;
         return;
     }
-    for(string dv : donViQuanLy) {
+    for(string dv : donViQuanLy.getDanhSach()) {
       static int dem = 1;
       if(dem % 3 == 0) cout << endl;
       cout << dem++ << dv << '/';
@@ -30,10 +35,10 @@ void SiQuan::hienThiThongTin() const {
 
 void SiQuan::giaoNV(string MSQN, string nhiemVu) {
     bool flag = false;
-    for (QuanNhan& qn : donViQuanLy) {
+    for (QuanNhan& qn : donViQuanLy.danhSach) {
         if (qn.getMaSo() == MSQN) {
             flag = true;
-            if (capBac <= qn.getCapBac()) {
+            if (getCapBac() <= qn.getCapBac()) {
                 cout << "Ban khong co quyen ra lenh cho cap tren" << endl;
                 return;
             }
@@ -48,7 +53,7 @@ void SiQuan::giaoNV(string MSQN, string nhiemVu) {
 
 void SiQuan::kiemTraNVQN(string MSQN) {
     bool flag = false;
-    for (QuanNhan *qn : donViQuanLy) {
+    for (QuanNhan *qn : donViQuanLy.danhSach) {
         if (qn->getMaSo() == MSQN) {
             flag = true;
             for (string NV : qn->getDSNhiemVu()) {
@@ -75,7 +80,7 @@ istream& operator>>(istream& is , SiQuan& p){
 }
 ostream& operator<<(ostream& out , const SiQuan& p) {
       out << dynamic_cast<const QuanNhan&>(p);
-      for(string dv : p.donViQuanLy) {
+      for(string dv : p.donViQuanLy.danhSach) {
         out << dv << endl;
       }
       return out;

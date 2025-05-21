@@ -1,8 +1,9 @@
-#include "QuanLiQuanDoi.h"
+#include "SiQuan.h"
+#include "BinhSi.h"
 
 int main() {
-    QuanLiQuanDoi man;
-    man.danhSach[0]->hienThiThongTin();
-    man.capNhatDuLieu();
+    QuanLiQuanDoi QuanDoan1;
+    QuanDoan1.danhSach[0]->hienThiThongTin();
+    QuanDoan1.ghiFile();
     return 0;
 }

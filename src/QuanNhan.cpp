@@ -1,5 +1,8 @@
+#include "QuanLiQuanDoi.h"
 #include "QuanNhan.h"
-
+#include "SiQuan.h"
+#include "BinhSi.h"
+#include <sstream>
 // ===== HÀM CHUYỂN ĐỔI ENUM <-> STRING =====
 CapBac chuyenCapBac(const string& s) {
     if (s == "Binh nhi") return BINH_NHI;
@@ -71,6 +74,7 @@ string QuanNhan::getQueQuan() const { return queQuan; }
 string QuanNhan::getNgaySinh() const { return ngaySinh; }
 string QuanNhan::getNgayNhapNgu() const { return ngayNhapNgu; }
 vector<string> QuanNhan::getDSNhiemVu() const { return DSNhiemVu; }
+int QuanNhan::getLuong() const { return Luong; }
 
 void QuanNhan::setMaSo(string ms) { maSo = ms; }
 void QuanNhan::setHoTen(string ht) { hoTen = ht; }
@@ -111,9 +115,15 @@ void QuanNhan::taoLuong() {
 }
 
 istream& operator>>(istream& is , QuanNhan& p){
-   string temp;
-   is >> p.maSo >> p.hoTen >> temp >> p.donVi >> p.queQuan >> p.ngaySinh >> p.ngayNhapNgu;
-   p.capBac = chuyenCapBac(temp);
+    string _capBac;
+    getline(is, p.maSo, ',');
+    getline(is, p.hoTen, ',');
+    getline(is, _capBac, ',');
+	p.capBac = chuyenCapBac(_capBac);
+    getline(is, p.donVi, ',');
+    getline(is, p.queQuan, ',');
+    getline(is, p.ngaySinh, ',');
+    getline(is, p.ngayNhapNgu, ',');
    return is;
 }
 ostream& operator<<(ostream& out , const QuanNhan& p) {

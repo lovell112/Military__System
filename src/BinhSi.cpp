@@ -1,5 +1,5 @@
 #include "BinhSi.h"
-
+BinhSi::BinhSi(string, string, string, string, string, string, string) : QuanNhan(){}
 bool BinhSi::baoCaoNV(string NV){
     string tinhTrangNV;
     for(string nv : DSNhiemVu) {

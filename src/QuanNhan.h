@@ -1,9 +1,7 @@
-#pragma one
+#pragma once
 #include <iostream>
 #include <string>
 #include <vector>
-#include <fstream>
-#include <sstream>
 using namespace std;
 
 // ===== ENUM CẤP BẬC =====
@@ -13,7 +11,8 @@ enum CapBac {
     THIEU_TA, TRUNG_TA, THUONG_TA, DAI_TA,
     KHAC
 };
-
+CapBac chuyenCapBac(const string& s);
+string capBacToString(CapBac cb) ;
 
 class QuanNhan {
 protected:
@@ -39,7 +38,7 @@ public:
     string getNgaySinh() const;
     string getNgayNhapNgu() const;
 	CapBac getCapBac() const;
-    int getLuong();
+    int getLuong() const;
 //    Set
     vector<string> getDSNhiemVu() const;
     void setMaSo(string ms);
@@ -50,7 +49,7 @@ public:
     void setNgaySinh(string ns);
     void setNgayNhapNgu(string nnn);
     void setLuong(int luong);
-
+    void getQuanNhan(string);
 //    Hàm mặc định
     void taoLuong();
     void themNhiemVu(string NV);
