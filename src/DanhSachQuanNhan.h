@@ -27,8 +27,8 @@ public:
 
     QuanNhan* getQuanNhan(const string& maSo) const;
 
-    vector<BinhSi*> layDanhSachBinhSi() const;
-    vector<SiQuan*> layDanhSachSiQuan() const;
+    vector<BinhSi*> getDanhSachBinhSi() const;
+    vector<SiQuan*> getDanhSachSiQuan() const;
 
     // Phương thức đếm số lượng mỗi loại
     int demSoBinhSi() const;

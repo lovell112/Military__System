@@ -146,7 +146,7 @@ int main() {
             case 6: {
                 // Hien thi danh sach binh si
                 cout << "\n=== DANH SACH BINH SI ===\n";
-                vector<BinhSi*> dsBinhSi = ds.layDanhSachBinhSi();
+                vector<BinhSi*> dsBinhSi = ds.getDanhSachBinhSi();
 
                 if (dsBinhSi.empty()) {
                     cout << "Khong co binh si nao trong danh sach!\n";
@@ -167,7 +167,7 @@ int main() {
             case 7: {
                 // Hien thi danh sach si quan
                 cout << "\n=== DANH SACH SI QUAN ===\n";
-                vector<SiQuan*> dsSiQuan = ds.layDanhSachSiQuan();
+                vector<SiQuan*> dsSiQuan = ds.getDanhSachSiQuan();
 
                 if (dsSiQuan.empty()) {
                     cout << "Khong co si quan nao trong danh sach!\n";

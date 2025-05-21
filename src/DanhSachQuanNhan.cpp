@@ -93,9 +93,10 @@ bool DanhSachQuanNhan::ghiFile(const string& tenFile) const {
     }
 
     for (const auto& qn : danhSach) {
+//         Kiểm tra loại Quân Nhân
         SiQuan* sq = dynamic_cast<SiQuan*>(qn);
         BinhSi* bs = dynamic_cast<BinhSi*>(qn);
-
+//        Nếu là Sĩ Quan
         if (sq) {
             file << "S," << sq->getMaSo() << "," << sq->getHoTen() << ","
                  << capBacToString(sq->getCapBac()) << "," << sq->getDonVi() << ","
@@ -108,6 +109,7 @@ bool DanhSachQuanNhan::ghiFile(const string& tenFile) const {
             }
             file << endl;
         }
+//        Nếu là Binh Sĩ
         else if (bs) {
             file << "B," << bs->getMaSo() << "," << bs->getHoTen() << ","
                  << capBacToString(bs->getCapBac()) << "," << bs->getDonVi() << ","
@@ -152,7 +154,7 @@ QuanNhan* DanhSachQuanNhan::getQuanNhan(const string& maSo) const {
     return nullptr;
 }
 
-vector<BinhSi*> DanhSachQuanNhan::layDanhSachBinhSi() const {
+vector<BinhSi*> DanhSachQuanNhan::getDanhSachBinhSi() const {
     vector<BinhSi*> dsBinhSi;
     for (auto qn : danhSach) {
         if (BinhSi* bs = dynamic_cast<BinhSi*>(qn)) {
@@ -162,7 +164,7 @@ vector<BinhSi*> DanhSachQuanNhan::layDanhSachBinhSi() const {
     return dsBinhSi;
 }
 
-vector<SiQuan*> DanhSachQuanNhan::layDanhSachSiQuan() const {
+vector<SiQuan*> DanhSachQuanNhan::getDanhSachSiQuan() const {
     vector<SiQuan*> dsSiQuan;
     for (auto qn : danhSach) {
         if (SiQuan* sq = dynamic_cast<SiQuan*>(qn)) {
