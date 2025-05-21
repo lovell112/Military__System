@@ -1,59 +1,120 @@
 #include "QuanLiQuanDoi.h"
-#include "SiQuan.h"
-#include "BinhSi.h"
-#include <fstream>
 #include <iostream>
 
-
-
-vector<QuanNhan*> QuanLiQuanDoi::getDanhsach(){
-  	return danhSach;
+// Constructor
+QuanLiQuanDoi::QuanLiQuanDoi() {
+    // Sử dụng constructor mặc định cho DANHSACH
+    nganSachToiThieu = 0;
 }
 
-void QuanLiQuanDoi::docFile() {
-    ifstream inFile("../data/solider__list.txt");
-    if (!inFile){
-        cout << "File khong ton tai!";
-        return;
-    }
-    string line;
-    while (getline(inFile, line)) {
-		char x; cin >> x;
-        QuanNhan *temp = nullptr;
-    	if (x == 'S'){
-        	temp = new SiQuan(); cin >> *temp;
-		}
-    	else if (x =='B'){
-        	temp = new BinhSi(); cin >> *temp;
-		}
-		danhSach.push_back(temp);
-
-    }
-    inFile.close();
-}
-void QuanLiQuanDoi::ghiFile() {
-    ofstream outFile("../data/solider__list.txt");
-    bool flag = false;
-    for (int i = 0; i < danhSach.size(); i++) {
-        if (flag)
-            outFile << endl;
-        string line;
-        line = danhSach[i]->getMaSo() + ",";
-        line += danhSach[i]->getHoTen() + ",";
-        line += capBacToString(danhSach[i]->getCapBac()) + ",";
-        line += danhSach[i]->getDonVi() + ",";
-        line += danhSach[i]->getQueQuan() + ",";
-        line += danhSach[i]->getNgaySinh() + ",";
-        line += danhSach[i]->getNgayNhapNgu() + ",";
-        outFile << line;
-        flag = true;
-    }
-}
-QuanLiQuanDoi::QuanLiQuanDoi(){
-    ghiFile();
-}
-
+// Destructor
 QuanLiQuanDoi::~QuanLiQuanDoi() {
-    for (int i = 0; i < danhSach.size(); i++)
-        delete danhSach[i];
+    // Không cần làm gì đặc biệt vì DanhSachQuanNhan sẽ tự giải phóng bộ nhớ
+}
+
+// Trả về danh sách quân nhân
+DanhSachQuanNhan QuanLiQuanDoi::getDS() const {
+    return DANHSACH;
+}
+
+// Thống kê số lượng quân nhân theo cấp bậc
+int QuanLiQuanDoi::thongKeCapBac(string capBac) {
+    int count = 0;
+    int soLuong = DANHSACH.getSoLuongHienTai();
+
+    for (int i = 0; i < soLuong; i++) {
+        try {
+            QuanNhan& quanNhan = DANHSACH[i];
+            SiQuan* siquan = dynamic_cast<SiQuan*>(&quanNhan);
+
+            if (siquan) {
+                // Chuyển đổi enum CapBac thành string để so sánh
+                string capBacStr = "";
+                CapBac cb = siquan->getCapBac();
+
+                capBacStr = capBacToString(cb);
+
+                if (capBacStr == capBac) {
+                    count++;
+                }
+            }
+
+            BinhSi* binhsi = dynamic_cast<BinhSi*>(&quanNhan);
+            if (binhsi) {
+                // Tương tự với BinhSi
+                string capBacStr = "";
+                CapBac cb = siquan->getCapBac();
+
+                capBacStr = capBacToString(cb);
+
+                if (capBacStr == capBac) {
+                    count++;
+                }
+            }
+        } catch (const std::exception& e) {
+            // Xử lý ngoại lệ nếu có
+        }
+    }
+
+    return count;
+}
+
+// Thống kê số lượng sĩ quan
+int QuanLiQuanDoi::thongKeSiQuan() {
+    int count = 0;
+    int soLuong = DANHSACH.getSoLuongHienTai();
+
+    for (int i = 0; i < soLuong; i++) {
+        try {
+            QuanNhan& quanNhan = DANHSACH[i];
+            SiQuan* siquan = dynamic_cast<SiQuan*>(&quanNhan);
+
+            if (siquan != nullptr) {
+                count++;
+            }
+        } catch (const std::exception& e) {
+            // Xử lý ngoại lệ nếu có
+        }
+    }
+
+    return count;
+}
+
+// Thống kê số lượng binh sĩ
+int QuanLiQuanDoi::thongKeBinhSi() {
+    int count = 0;
+    int soLuong = DANHSACH.getSoLuongHienTai();
+
+    for (int i = 0; i < soLuong; i++) {
+        try {
+            QuanNhan& quanNhan = DANHSACH[i];
+            BinhSi* binhsi = dynamic_cast<BinhSi*>(&quanNhan);
+
+            if (binhsi != nullptr) {
+                count++;
+            }
+        } catch (const std::exception& e) {
+            // Xử lý ngoại lệ nếu có
+        }
+    }
+
+    return count;
+}
+
+// Lấy ngân sách tối thiểu
+long long QuanLiQuanDoi::getNganSachToiThieu() {
+    // Tính toán ngân sách tối thiểu dựa trên lương của tất cả quân nhân
+    nganSachToiThieu = 0;
+    int soLuong = DANHSACH.getSoLuongHienTai();
+
+    for (int i = 0; i < soLuong; i++) {
+        try {
+            QuanNhan& quanNhan = DANHSACH[i];
+            nganSachToiThieu += quanNhan.getLuong();
+        } catch (const std::exception& e) {
+            // Xử lý ngoại lệ nếu có
+        }
+    }
+
+    return nganSachToiThieu;
 }

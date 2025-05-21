@@ -1,26 +1,19 @@
 #pragma once
-#include "QuanNhan.h"
+#ifndef QUANLIQUANDOI_H
+#define QUANLIQUANDOI_H
+#include "DanhSachQuanNhan.h"
 using namespace std;
 
 class QuanLiQuanDoi {
-    vector<QuanNhan*> danhSach;
+    DanhSachQuanNhan DANHSACH;
     long long nganSachToiThieu;
     public:
     QuanLiQuanDoi();
     ~QuanLiQuanDoi();
-    vector<QuanNhan*> getDanhsach();
-
-    void docFile();
-    void ghiFile();
-
-    void them();
-
-    void xoa(string);
-
+    DanhSachQuanNhan getDS() const;
     int thongKeCapBac(string);
-
     int thongKeSiQuan();
     int thongKeBinhSi();
-
-    long long getNganSach();
+    long long getNganSachToiThieu();
 };
+#endif

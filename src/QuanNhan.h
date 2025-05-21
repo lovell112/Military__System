@@ -1,7 +1,12 @@
 #pragma once
+#ifndef QUANNHAN_H
+#define QUANNHAN_H
 #include <iostream>
 #include <string>
 #include <vector>
+#include <fstream>
+#include <sstream>
+#include <algorithm>
 using namespace std;
 
 // ===== ENUM CẤP BẬC =====
@@ -18,13 +23,12 @@ class QuanNhan {
 protected:
     string maSo, hoTen, donVi, queQuan, ngaySinh, ngayNhapNgu;
     CapBac capBac;
-    vector<string> DSNhiemVu;
     int Luong;
 public:
 
     QuanNhan();
 
-    QuanNhan(string ms, string ht, string cb, string dv, string qq, string ns, string nnn);
+    QuanNhan(string ms, string ht, CapBac cb, string dv, string qq, string ns, string nnn);
  
     QuanNhan(const QuanNhan& qn);
 
@@ -50,15 +54,16 @@ public:
     void setNgayNhapNgu(string nnn);
     void setLuong(int luong);
     void getQuanNhan(string);
+    virtual void setCapBac(CapBac capBac);
+
 //    Hàm mặc định
     void taoLuong();
     void themNhiemVu(string NV);
     void xoaNhiemVu(string NV);
 
 //     Hàm ảo
-    virtual void thangCap();
-    virtual bool baoCaoNV(string NV);
     virtual void hienThiThongTin() const;
     friend istream& operator>>(istream&, QuanNhan&);
     friend ostream& operator<<(ostream&, const QuanNhan&);
 };
+#endif

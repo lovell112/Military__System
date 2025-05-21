@@ -1,68 +1,62 @@
-#include "QuanLiQuanDoi.h"
 #include "QuanNhan.h"
-#include "SiQuan.h"
-#include "BinhSi.h"
 #include <sstream>
 // ===== HÀM CHUYỂN ĐỔI ENUM <-> STRING =====
 CapBac chuyenCapBac(const string& s) {
-    if (s == "Binh nhi") return BINH_NHI;
-    if (s == "Binh nhat") return BINH_NHAT;
-    if (s == "Ha si") return HA_SI;
-    if (s == "Trung si") return TRUNG_SI;
-    if (s == "Thuong si") return THUONG_SI;
-    if (s == "Thieu uy") return THIEU_UY;
-    if (s == "Trung uy") return TRUNG_UY;
-    if (s == "Thuong uy") return THUONG_UY;
-    if (s == "Dai uy") return DAI_UY;
-    if (s == "Thieu ta") return THIEU_TA;
-    if (s == "Trung ta") return TRUNG_TA;
-    if (s == "Thuong ta") return THUONG_TA;
-    if (s == "Dai ta") return DAI_TA;
+    if (s == "BINH_NHI") return BINH_NHI;
+    if (s == "BINH_NHAT") return BINH_NHAT;
+    if (s == "HA_SI") return HA_SI;
+    if (s == "TRUNG_SI") return TRUNG_SI;
+    if (s == "THUONG_SI") return THUONG_SI;
+    if (s == "THIEU_UY") return THIEU_UY;
+    if (s == "TRUNG_UY") return TRUNG_UY;
+    if (s == "THUONG_UY") return THUONG_UY;
+    if (s == "DAI_UY") return DAI_UY;
+    if (s == "THIEU_TA") return THIEU_TA;
+    if (s == "TRUNG_TA") return TRUNG_TA;
+    if (s == "THUONG_TA") return THUONG_TA;
+    if (s == "DAI_TA") return DAI_TA;
     return KHAC;
 }
 
 string capBacToString(CapBac cb) {
     switch (cb) {
-        case BINH_NHI: return "Binh nhi";
-        case BINH_NHAT: return "Binh nhat";
-        case HA_SI: return "Ha si";
-        case TRUNG_SI: return "Trung si";
-        case THUONG_SI: return "Thuong si";
-        case THIEU_UY: return "Thieu uy";
-        case TRUNG_UY: return "Trung uy";
-        case THUONG_UY: return "Thuong uy";
-        case DAI_UY: return "Dai uy";
-        case THIEU_TA: return "Thieu ta";
-        case TRUNG_TA: return "Trung ta";
-        case THUONG_TA: return "Thuong ta";
-        case DAI_TA: return "Dai ta";
-        default: return "Khac";
+        case BINH_NHI: return "Binh Nhi";
+        case BINH_NHAT: return "Binh Nhat";
+        case HA_SI: return "Ha Si";
+        case TRUNG_SI: return "Trung Si";
+        case THUONG_SI: return "Thuong Si";
+        case THIEU_UY: return "Thieu Uy";
+        case TRUNG_UY: return "Trung Uy";
+        case THUONG_UY: return "Thuong Uy";
+        case DAI_UY: return "Dai Uy";
+        case THIEU_TA: return "Thieu Ta";
+        case TRUNG_TA: return "Trung Ta";
+        case DAI_TA: return "Dai Ta";
+        default: return "Khong xac dinh";
     }
 }
-QuanNhan::QuanNhan() {
-    maSo = "";
-    hoTen = "";
-    capBac = KHAC;
-    donVi = "";
-    ngaySinh = "";
-    ngayNhapNgu = "";
+
+QuanNhan::QuanNhan()
+    : maSo(""), hoTen(""), capBac(CapBac::BINH_NHI), donVi(""), queQuan(""), ngaySinh(""), ngayNhapNgu("") {
+}
+QuanNhan::QuanNhan(string ms, string ht, CapBac cb, string dv, string qq, string ns, string nnn)
+    : maSo(ms), hoTen(ht), capBac(cb), donVi(dv), queQuan(qq), ngaySinh(ns), ngayNhapNgu(nnn) {
 }
 
-QuanNhan::QuanNhan(string ms, string ht, string cb, string dv, string qq, string ns, string nnn)
-        : hoTen(ht), donVi(dv), queQuan(qq), maSo(ms), ngaySinh(ns), ngayNhapNgu(nnn) {
-            capBac = chuyenCapBac(cb);
-            taoLuong();
-        }
+
 
 QuanNhan::QuanNhan(const QuanNhan& qn)
         : hoTen(qn.hoTen) , maSo(qn.maSo), donVi(qn.donVi), queQuan(qn.queQuan), ngaySinh(qn.ngaySinh), ngayNhapNgu(qn.ngayNhapNgu), capBac(qn.capBac), Luong (qn.Luong) {}
 
 QuanNhan::~QuanNhan() {}
 
-void QuanNhan::hienThiThongTin() const{
-    cout << "Ma so: " << maSo << ", Ho ten: " << hoTen << endl;
-    cout << "Cap bac: " << capBacToString(capBac) << ", Don vi: " << donVi << endl;
-    cout << "Que quan: " << queQuan << ", ngay sinh: " << ngaySinh << endl;
+void QuanNhan::hienThiThongTin() const {
+    cout << "Ma so: " << maSo << endl;
+    cout << "Ho ten: " << hoTen << endl;
+    cout << "Cap bac: " << capBacToString(capBac) << endl;
+    cout << "Don vi: " << donVi << endl;
+    cout << "Que quan: " << queQuan << endl;
+    cout << "Ngay sinh: " << ngaySinh << endl;
     cout << "Ngay nhap ngu: " << ngayNhapNgu << endl;
 }
 
@@ -73,26 +67,17 @@ string QuanNhan::getDonVi() const { return donVi; }
 string QuanNhan::getQueQuan() const { return queQuan; }
 string QuanNhan::getNgaySinh() const { return ngaySinh; }
 string QuanNhan::getNgayNhapNgu() const { return ngayNhapNgu; }
-vector<string> QuanNhan::getDSNhiemVu() const { return DSNhiemVu; }
 int QuanNhan::getLuong() const { return Luong; }
 
 void QuanNhan::setMaSo(string ms) { maSo = ms; }
 void QuanNhan::setHoTen(string ht) { hoTen = ht; }
-void QuanNhan::setCapBac(string cb) { capBac = chuyenCapBac(cb);}
+void QuanNhan::setCapBac(CapBac capBac) {
+    this->capBac = capBac;
+}
 void QuanNhan::setDonVi(string dv) { donVi = dv; }
 void QuanNhan::setQueQuan(string qq) { queQuan = qq; }
 void QuanNhan::setNgaySinh(string ns) { ngaySinh = ns; }
 void QuanNhan::setNgayNhapNgu(string nnn) { ngayNhapNgu = nnn;}
-void QuanNhan::themNhiemVu(string NV) {DSNhiemVu.push_back(NV);}
-void QuanNhan::xoaNhiemVu(string NV) {
-      int j = 0;
-      for (string x : DSNhiemVu) {
-        if (x == NV) {
-          DSNhiemVu.erase(DSNhiemVu.begin() + j);
-        }
-        j++;
-      }
- }
 
 void QuanNhan::taoLuong() {
   int LuongCoSo = 2340000;
@@ -114,22 +99,22 @@ void QuanNhan::taoLuong() {
   }
 }
 
-istream& operator>>(istream& is , QuanNhan& p){
+istream& operator>>(istream& is, QuanNhan& p) {
     string _capBac;
     getline(is, p.maSo, ',');
     getline(is, p.hoTen, ',');
     getline(is, _capBac, ',');
-	p.capBac = chuyenCapBac(_capBac);
+    p.capBac = chuyenCapBac(_capBac);
     getline(is, p.donVi, ',');
     getline(is, p.queQuan, ',');
     getline(is, p.ngaySinh, ',');
     getline(is, p.ngayNhapNgu, ',');
-   return is;
+    return is;
 }
-ostream& operator<<(ostream& out , const QuanNhan& p) {
-    out << "Ma so: " << p.maSo << ", Ho ten: " << p.hoTen << endl;
-    out << "Cap bac: " << capBacToString(p.capBac) << ", Don vi: " << p.donVi << endl;
-    out << "Que quan: " << p.queQuan << ", ngay sinh: " << p.ngaySinh << endl;
-    out << "Ngay nhap ngu: " << p.ngayNhapNgu << endl;
-    return out;
+
+ostream& operator<<(ostream& os, const QuanNhan& p) {
+    os << p.maSo << ", " << p.hoTen << ", "
+       << capBacToString(p.capBac) << ", " << p.donVi << ", "
+       << p.queQuan << ", " << p.ngaySinh << ", " << p.ngayNhapNgu;
+    return os;
 }
