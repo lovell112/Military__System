@@ -19,9 +19,6 @@
 ---
 
 ## 🧱 Cấu trúc project
-
-```
-
 QuanLyQuanNhan/
 ├── CMakeLists.txt
 ├── data/
@@ -32,9 +29,6 @@ QuanLyQuanNhan/
 │   ├── SiQuan.cpp/.h           # Lớp kế thừa Sĩ Quan
 │   ├── BinhSi.cpp/.h           # Lớp kế thừa Binh Sĩ
 │   └── QuanLiQuanDoi.cpp/.h    # Quản lý danh sách quân nhân
-
-````
-
 ---
 
 ## 🛠 Cách chạy trong CLion
@@ -49,11 +43,6 @@ QuanLyQuanNhan/
 
 ## 📂 Dữ liệu mẫu (`data/solider__list.txt`)
 
-```txt
-S-001,Nguyen Van A,Dai ta,Lữ đoàn 1,Hà Nội,01/01/1980,01/01/2000,Tong Tu Lenh,Si Quan
-B-101,Le Van B,Binh nhat,Trung doan 2,Đà Nẵng,02/02/1995,05/05/2015,Tuan tra,Binh Si
-````
-
 ---
 
 ## 👨‍💻 Thành viên thực hiện
@@ -65,14 +54,11 @@ B-101,Le Van B,Binh nhat,Trung doan 2,Đà Nẵng,02/02/1995,05/05/2015,Tuan tra
 | 50.01.104.085 | Nguyễn Hoàng Long    |
 | 50.01.104.xxx | Dương Trung Nguyên   |
 | 50.01.104.xxx | Nguyễn Đức Trọng     |
-
-> 📌 *Ghi chú: Vui lòng bổ sung đầy đủ MSSV cho Trung Nguyên và Đức Trọng nếu có.*
-
 ---
 
 ## 📌 Ghi chú
 
-* Dự án sử dụng chuẩn C++17.
+* Dự án sử dụng chuẩn C++.
 * File dữ liệu nên giữ đúng định dạng CSV, mỗi dòng là thông tin 1 quân nhân.
 * Các thao tác CRUD (Create, Read, Update, Delete) được thực hiện qua console menu.
 
@@ -80,7 +66,7 @@ B-101,Le Van B,Binh nhat,Trung doan 2,Đà Nẵng,02/02/1995,05/05/2015,Tuan tra
 
 ## 📜 Bản quyền
 
-Dự án được thực hiện phục vụ học tập, không dùng cho mục đích thương mại.
+Dự án thuộc về nhóm Ngũ Lão Tinh thuộc lớp 50.CNTT.A
 
 ```
 
