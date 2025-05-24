@@ -32,16 +32,6 @@ QuanLyQuanNhan/
 │   └── QuanLiQuanDoi.cpp/.h    # Quản lý danh sách quân nhân
 ---
 
-## 🛠 Cách chạy trong CLion
-
-1. Mở CLion → **Open Folder** → chọn thư mục `QuanLyQuanNhan`
-2. CLion sẽ nhận diện `CMakeLists.txt` tự động
-3. Nhấn **Ctrl + F9** để build
-4. Nhấn **Shift + F10** để chạy
-5. Dữ liệu sẽ được đọc/ghi từ `data/solider__list.txt`
-
----
-
 ## 📂 Dữ liệu mẫu (`data/solider__list.txt`)
 
 ---
