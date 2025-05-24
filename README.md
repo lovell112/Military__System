@@ -1,7 +1,8 @@
 ```markdown
 # 🪖 Quản Lý Quân Nhân - C++ Project
 
-Đây là đồ án môn học được xây dựng bằng ngôn ngữ **C++**, sử dụng các kiến thức về **lập trình hướng đối tượng** để mô phỏng hệ thống **quản lý quân nhân** gồm Sĩ Quan và Binh Sĩ.
+Đây là đồ án môn học được xây dựng bằng ngôn ngữ *C++*, sử dụng các kiến thức về *lập trình hướng đối tượng*
+ để mô phỏng hệ thống *quản lý quân nhân* gồm Sĩ Quan và Binh Sĩ.
 
 ---
 
