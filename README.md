@@ -70,10 +70,3 @@ QuanLyQuanNhan/
 Dự án thuộc về nhóm Ngũ Lão Tinh thuộc lớp 50.CNTT.A
 
 ```
-
----
-
-Bạn chỉ cần copy toàn bộ nội dung trên, dán vào file `README.md` trong repo GitHub của bạn.
-
-📦 Nếu bạn cần mình đính kèm README.md sẵn vào trong project `.zip` luôn thì mình có thể cập nhật nhé!
-```
