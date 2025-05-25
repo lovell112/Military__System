@@ -53,7 +53,14 @@ Military__System/
 * Các thao tác CRUD (Create, Read, Update, Delete) được thực hiện qua GUI menu.
 
 ---
-
+## Yêu cầu kỹ thuật:
+Sử dụng lập trình hướng đối tượng trong C++
+Xây dựng một class cha QuanNhan để lưu thông tin chung
+Hai class con SiQuan và BinhSi kế thừa từ QuanNhan
+Xây dựng class QuanLiQuanDoi để quản lý danh sách quân nhân
+Áp dụng tính đa hình để xử lý thông tin và tính toán lương
+Có thể sử dụng thêm các container như vector để quản lý danh sách
+---
 ## 📜 Bản quyền
 
 Dự án thuộc về nhóm Ngũ Lão Tinh thuộc lớp 50.CNTT.A
