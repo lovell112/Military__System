@@ -8,7 +8,7 @@
 
 ## 🚀 Tính năng
 
-- 📥 Đọc dữ liệu quân nhân từ file `solider__list.txt`
+- 📥 Đọc dữ liệu quân nhân từ file `solider_list.txt`
 - ➕ Thêm mới sĩ quan hoặc binh sĩ
 - ✏️ Sửa thông tin quân nhân theo mã số
 - ❌ Xoá quân nhân khỏi danh sách
