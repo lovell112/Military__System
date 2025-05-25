@@ -31,7 +31,7 @@ Military__System/
 │   └── QuanLiQuanDoi.cpp/.h    # Quản lý danh sách quân nhân
 ---
 
-## 📂 Dữ liệu mẫu (`data/solider__list.txt`)
+## 📂 Dữ liệu mẫu (`data/solider_list.txt`)
 
 ---
 
