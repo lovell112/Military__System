@@ -42,7 +42,7 @@ Military__System/
 | 50.01.104.135 | Trần Nguyễn Xuân Sơn |
 | 50.01.104.143 | Đổng Quốc Thái       |
 | 50.01.104.085 | Nguyễn Hoàng Long    |
-| 50.01.104.xxx | Dương Trung Nguyên   |
+| 50.01.104.102 | Dương Trung Nguyên   |
 | 50.01.104.170 | Nguyễn Đức Trọng     |
 ---
 
