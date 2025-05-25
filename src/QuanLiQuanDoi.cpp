@@ -183,32 +183,33 @@ int QuanLiQuanDoi::thongKeBinhSi(){
 }
 
 //Thống kê lương được nhận rồi trả về ngân sách tối thiểu cần có trong 1 năm
-long long QuanLiQuanDoi::NganSachToiThieu(){
+long long QuanLiQuanDoi::NganSachToiThieu() {
     long long tongLuong = 0;
+
     for (int i = 0; i < danhSach.size(); i++) {
-        if (danhSach[i]->getLoai() == "Si Quan") {
-            
-            string chucVu = danhSach[i]->getTrachNhiem();
-            long long luong = 0;
+        string capBac = danhSach[i]->getCapBac();
+        long long luongThang = 0;
 
-            if (chucVu == "Dai tuong") luong = 24336000;
-            else if (chucVu == "Thuong tuong") luong = 22932000;
-            else if (chucVu == "Trung tuong") luong = 21528000;
-            else if (chucVu == "Thieu tuong") luong = 20124000;
-            else if (chucVu == "Dai ta") luong = 18720000;
-            else if (chucVu == "Thuong ta") luong = 17082000;
-            else if (chucVu == "Trung ta") luong = 15444000;
-            else if (chucVu == "Thieu ta") luong = 14040000;
-            else if (chucVu == "Dai uy") luong = 12636000;
-            else if (chucVu == "Thuong uy") luong = 11700000;
-            else if (chucVu == "Trung uy") luong = 10764000;
-            else if (chucVu == "Thieu uy") luong = 9828000;
-            else luong = 0;
-
-            tongLuong += luong * 12; // lương theo năm của từng sĩ quan
-        } else if (danhSach[i]->getLoai() == "Binh Si") {
-            tongLuong += 9000000; // Binh sĩ: mặc định 9 triệu/năm
+        if (capBac == "Dai tuong") luongThang = 24336000;
+        else if (capBac == "Thuong tuong") luongThang = 22932000;
+        else if (capBac == "Trung tuong") luongThang = 21528000;
+        else if (capBac == "Thieu tuong") luongThang = 20124000;
+        else if (capBac == "Dai ta") luongThang = 18720000;
+        else if (capBac == "Thuong ta") luongThang = 17082000;
+        else if (capBac == "Trung ta") luongThang = 15444000;
+        else if (capBac == "Thieu ta") luongThang = 14040000;
+        else if (capBac == "Dai uy") luongThang = 12636000;
+        else if (capBac == "Thuong uy") luongThang = 11700000;
+        else if (capBac == "Trung uy") luongThang = 10764000;
+        else if (capBac == "Thieu uy") luongThang = 9828000;
+        else if (danhSach[i]->getLoai() == "Binh Si") {
+            tongLuong += 9000000; // lương năm cố định cho binh sĩ
+            continue;
         }
+
+        tongLuong += luongThang * 12; // lương năm cho sĩ quan
     }
+
     return tongLuong;
 }
+
