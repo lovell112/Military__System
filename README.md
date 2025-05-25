@@ -29,6 +29,8 @@ Military__System/
 │   ├── SiQuan.cpp/.h           # Lớp kế thừa Sĩ Quan
 │   ├── BinhSi.cpp/.h           # Lớp kế thừa Binh Sĩ
 │   └── QuanLiQuanDoi.cpp/.h    # Quản lý danh sách quân nhân
+│   └── WindowHandler.cpp/.h    # Giao diện quản lý quân nhân
+    
 ---
 
 ## 📂 Dữ liệu mẫu (`data/solider_list.txt`)
