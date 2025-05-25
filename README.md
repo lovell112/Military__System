@@ -20,8 +20,7 @@
 ---
 
 ## 🧱 Cấu trúc project
-QuanLyQuanNhan/
-├── CMakeLists.txt
+Military__System/
 ├── data/
 │   └── solider\_\_list.txt        # Dữ liệu quân nhân
 ├── src/
@@ -51,7 +50,7 @@ QuanLyQuanNhan/
 
 * Dự án sử dụng chuẩn C++.
 * File dữ liệu nên giữ đúng định dạng CSV, mỗi dòng là thông tin 1 quân nhân.
-* Các thao tác CRUD (Create, Read, Update, Delete) được thực hiện qua console menu.
+* Các thao tác CRUD (Create, Read, Update, Delete) được thực hiện qua GUI menu.
 
 ---
 
